@@ -92,6 +92,11 @@ def load_test_model(opt, model_path=None):
                              opt.gpu)
     if opt.fp32:
         model.float()
+    elif opt.int8:
+        if opt.gpu >= 0:
+            raise ValueError(
+                "Dynamic 8-bit quantization is not supported on GPU")
+        torch.quantization.quantize_dynamic(model, inplace=True)
     model.eval()
     model.generator.eval()
     return fields, model, model_opt
@@ -162,7 +167,8 @@ def build_base_model(model_opt, fields, gpu, checkpoint=None, gpu_id=None):
             gen_func = nn.LogSoftmax(dim=-1)
         generator = nn.Sequential(
             nn.Linear(model_opt.dec_rnn_size,
-                      len(fields["tgt"].base_field.vocab)),
+                      len(fields["tgt"].base_field.vocab),
+                      bias=False),
             Cast(torch.float32),
             gen_func
         )
