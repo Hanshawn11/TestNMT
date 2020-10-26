@@ -1,0 +1,1880 @@
+Check for fuel supply lines that are restricted. 
+Replace the in-line fuel filter that is installed upstream of the Electric Priming Pump (EPP). 
+Replace the primary fuel filter. 
+Replace the secondary fuel filter (if equipped). 
+Refer to Systems Operation, Testing, and AdjustingAir in Fuel - Test. 
+Result: There is a leak from a high-pressure fuel line. 
+Replace the high-pressure fuel line. 
+Replace the high-pressure fuel pump. 
+Replace the High-Pressure Fuel Pump. 
+Repair or replace the high-pressure fuel line that is leaking. 
+Repair: Replace the high-pressure fuel line. 
+Refer to Disassembly and AssemblyFuel injection lines - Remove and Disassembly and AssemblyFuel injection lines - Install. 
+Refer to Disassembly and AssemblyFuel Injection Nozzles - Remove and Disassembly and AssemblyFuel Injection Nozzles - Install. 
+Refer to Disassembly and AssemblyFuel injection lines - Remove and Fuel injection lines - Install. 
+Refer to Disassembly and AssemblyFuel Injection Pump - Remove and refer to Disassembly and AssemblyFuel Injection Pump - Install. 
+Refer to Disassembly and AssemblyFuel Injection Pump Gear - Remove and refer to Disassembly and AssemblyFuel Injection Pump Gear - Install. 
+Refer to Disassembly and AssemblyFuel injection lines - Remove and Disassembly and AssemblyFuel injection lines - Install. 
+Result: The vent in the fuel cap is blocked. 
+Repair: Install a replacement fuel cap. 
+Result: There are fuel supply lines that are restricted. 
+Repair: Replace any damaged or restricted fuel lines. 
+Result: The fuel supply is OK. 
+Repair: Proceed to Test Step 10. 
+Note: If the compression test that was performed in Test Step 10 was satisfactory, the Cylinder Cutout Test will identify any faulty injectors. 
+Note: If a change in the sound of the engine is not noted, the isolated cylinder is not operating under normal conditions. 
+If a reduction in engine speed is not noted, the isolated cylinder is not operating under normal conditions. 
+Note: If a change in the sound of the engine is not noted, the isolated cylinder is not operating under normal conditions. 
+The flash file is for a different engine family or for a different engine application. 
+Clearing this diagnostic code requires factory passwords. 
+The personality module code must be reset to zero. 
+Flash programming is a method of programming or updating the flash file in the Electronic Control Module (ECM). 
+Flash programming is a method of programming or updating the flash file in the Machine Electronic Control Module (ECM). 
+Flash programming is a method of programming or updating the flash file in an Electronic Control Module (ECM). 
+The electronic service tool is used to install a flash file into the ECM. 
+The flash programming transfers the flash file from the PC to the ECM. 
+Obtain the part number for the new flash file. 
+If you do not have the part number for the flash file, use PTMI on the Perkins secured web site. 
+If the part number for the flash file is not available, use PTMI on the Perkins secured web site. 
+The engine serial number must be available to search for the part number of the flash file. 
+Select WinFlash from the Utilities menu on the electronic service tool. 
+Select WinFlash from the Utilities menu of the electronic service tool. 
+If WinFlash will not communicate with the ECM, refer to TroubleshootingElectronic Service Tool Does Not Communicate. 
+Flash program the flash file into the ECM. 
+Select the engine ECM under the Detected ECMs. 
+Select the engine ECM under the Detected ECMs . 
+Select the engine ECM from the Detected ECMs. 
+Select the Machine ECM under the Detected ECM modules. 
+Select the desired ECM under the Detected ECM modules. 
+Select the appropriate ECM under the Detected ECM modules. 
+Select the engine ECM under the Detected ECMs. 
+Press the Browse button to select the part number of the flash file that will be programmed into the ECM. 
+When the correct flash file is selected, press the Open button. 
+Verify that the File Values match the application. 
+If the File Values do not match the application, search for the correct flash file. 
+If the file values do not match the application, obtain the correct flash file. 
+If the File Values do not match the application, obtain the correct flash file. 
+If the File Values do not match the application, search for the correct flash file. 
+When the correct flash file is selected, press the Begin Flash button. 
+The electronic service tool will indicate when flash programming has been successfully completed. 
+If the engine rating is being changed, factory passwords must be obtained before the flash file will be accepted. 
+Access the Configuration screen under the Service menu to determine the parameters that require programming. 
+Look under the Tattletale column. 
+All the parameters should have a tattletale of 1 or more. 
+If a parameter has a tattletale of 0, program that parameter. 
+Start the engine and check for proper operation. 
+Check that there are no active diagnostic codes. 
+If any error messages are displayed during flash programming, click the Cancel button to stop the process. 
+Access the information about the ECM Summary under the Information menu. 
+Ensure that you are programming the correct flash file for your engine. 
+If a 630-2 diagnostic trouble code is displayed after flash programming, a required parameter is missing. 
+Program the missing parameter. 
+Use the following procedure to troubleshoot a problem with coolant in the exhaust system. 
+After the repair has been made, the electronic service tool must be used to perform an Aftertreatment System Functional Test. 
+The test will verify the correct functionality of both NOx sensors and the catalysts. 
+Check the NRS cooler for leaks. 
+Refer to Systems Operation, Testing, and AdjustingExhaust Cooler (NRS) - Test. 
+Result : The NRS cooler has a leak. 
+Repair: Replace the NRS cooler. 
+Proceed to Step 5. 
+Result : The NRS cooler does not have a leak. 
+Check the cylinder head gasket for leaks. 
+Result : The cylinder head gasket is leaking. 
+Result : The cylinder head gasket is not leaking. 
+Check for cracks in the cylinder head. 
+Perform a leak test on the cylinder head. 
+Refer to the Systems Operation, Testing, and AdjustingCylinder Head - Inspect for the correct procedure. 
+Result : A crack is found in the cylinder head. 
+Repair: Repair the cylinder head or replace the cylinder head. 
+Refer to the Disassembly and Assembly manual. 
+Result: The cylinder head is OK. 
+Result: The cylinder head is NOT OK. 
+Result: The cylinder head gasket is OK. 
+Result The cylinder head is damaged. 
+Result : The cylinder head is OK. 
+Check for cracks in top face of the cylinder block. 
+Refer to the Systems Operation, Testing, and AdjustingCylinder Block - Inspect for the correct procedure. 
+Result: A crack is found in the cylinder block. 
+Result: A crack is found in the cylinder head. 
+Result: A fault is found in the cylinder block. 
+Result: A crack is found in the cylinder liner. 
+Result : A crack is found in the cylinder block. 
+Repair: Repair the cylinder block or replace the cylinder block. 
+Repair: Assemble the cylinder head with a new cylinder head gasket. 
+Result: The cylinder block is OK. 
+Result: The cylinder block is NOT OK. 
+Result: The cylinder block is cracked. 
+Result The cylinder block is cracked. 
+Result: The cylinder block is not cracked. 
+Result : The cylinder block is OK. 
+? System Tests. 
+Result : The test is successful. 
+Result : The test is not successful. 
+diagnostic codes. 
+There are diagnostic codes. 
+Refer to TroubleshootingDiagnostic Trouble Codes manual for the correct procedure. 
+The Electronic Control Module (ECM) monitors the temperature sensor in the outlet from the low-pressure turbocharger. 
+Certain operating conditions may cause the exhaust temperature to increase to a level that may damage engine components. 
+If a high exhaust temperature occurs, the ECM derates the engine in order to reduce the exhaust temperature. 
+If a high exhaust temperature occurs, the ECM derates the engine to reduce the calculated exhaust temperature. 
+If a high exhaust temperature occurs, the ECM derates the engine in order to reduce the calculated exhaust temperature. 
+If high exhaust temperatures occur, the ECM derates the engine in order to reduce the calculated exhaust temperature. 
+When this occurs, the ECM derates the engine to reduce the exhaust temperature. 
+If a high exhaust temperature occurs, the ECM derates the engine to reduce the exhaust temperature. 
+The engine is derated only to a level that allows the exhaust temperature to return to an acceptable level. 
+Example of an electronic service tool screenshot of the histogram. 
+A diagnostic code will not be logged when the system calculates a high exhaust temperature condition. 
+The engine will be derated in order to protect the engine system. 
+The engine will be derated to protect the engine system. 
+Information from this histogram is to be used with active and logged diagnostic trouble codes. 
+This histogram is for information only. 
+Apply a light load to the engine and check for leakage from the inlet system downstream of the turbocharger. 
+Result: Leakage was found. 
+Result: Leakage was not found. 
+Use the histograms to determine if the high exhaust temperature was due to normal operation. 
+If possible, interview the operator. 
+Determine if the engine is being operated under heavy load. 
+Ensure that the engine is being operated at an acceptable engine speed. 
+If derates are suspected, reset the histogram and return the unit to service. 
+If the histogram repopulates without fault codes, the derating of the engine was under normal engine operation. 
+Result: The code was logged during a heavy load. 
+Repair: Reduce the load on the engine. 
+Result: The code was not logged during a heavy load. 
+Refer to TroubleshootingMotorized Valve - Test for the correct troubleshooting procedure. 
+Result: The Engine Throttle Valve Test failed. 
+Result: The Engine Throttle Valve Test passed. 
+Repair: Repair or replace the balance valve. 
+Repair: Repair the valve or replace the valve. 
+Repair: Repair or replace the fuel metering valve. 
+Repair: Repair or replace the pressure relief valve. 
+Repair: Repair or replace the wiring. 
+Repair: Repair or replace the valve. 
+Refer to Disassembly and AssemblyEngine Throttle Valve - Remove and Install. 
+Refer to Disassembly and AssemblyThrottle Valve (intake Air) - Remove and Install. 
+If the valve is repaired, use the electronic service tool to perform the Air System Motor Valves Verification Test and verify that the repair eliminates the fault. 
+Check the engine operating altitude. 
+Note: High altitudes can cause high exhaust temperatures, consider the operational altitude when troubleshooting a high exhaust temperature. 
+High exhaust temperatures are associated with high operational altitudes. 
+When operating below 5500ft and the ambient temperature is below , altitude should not cause a high exhaust temperature derate. 
+Result: The engine was operating at high altitudes. 
+The high exhaust temperature was due to high altitudes. 
+Result: The engine was not operating at high altitudes. 
+The intake manifold air temperature can increase if the flow through the ATAAC is obstructed. 
+Check the ATAAC for obstructions or debris. 
+Ensure that the flow of air or coolant through the ATAAC is adequate. 
+Result: The engine ATAAC was obstructed. 
+Repair: Clear any obstructions. 
+If the procedure did not correct the issue, contact the Dealer Solutions Network (DSN). 
+The engine is equipped with an Electronic Control Module (ECM). 
+The ECM contains no moving parts. 
+Follow the troubleshooting procedures in this manual in order to be sure that replacing the ECM will correct a fault. 
+Follow the troubleshooting procedures in this manual in order to be sure that replacing the ECM will correct the fault. 
+Follow the troubleshooting procedures in this manual to be sure that replacing the ECM will correct the problem. 
+Follow the troubleshooting procedures in this manual to ensure that replacing the ECM will correct the problem. 
+Follow the troubleshooting procedures in this manual in order to be sure that replacing the ECM will correct the problem. 
+Follow the troubleshooting procedures in this manual to be sure that replacing the ECM will correct a fault. 
+Verify that the suspect ECM is the cause of the fault. 
+Ensure that the ECM is receiving power and that the ECM is properly grounded before replacement of the ECM is attempted. 
+Refer to the schematic diagram. 
+A test ECM can be used in order to determine if the ECM on the engine is faulty. 
+A test ECM can be used to determine if the ECM is faulty. 
+A spare ECM can be used to determine if the ECM is faulty. 
+A test ECM can be used to determine if the ECM on the engine is faulty. 
+Install a test ECM in place of the suspect ECM. 
+Install the flash file with the correct part number into the test ECM. 
+Program the parameters for the test ECM. 
+The parameters must match the parameters in the suspect ECM. 
+Refer to the following test steps for details. 
+If the test ECM resolves the fault, reconnect the suspect ECM. 
+Verify that the fault returns. 
+If the fault returns, replace the ECM. 
+If an ECM is used as a test ECM, select Test ECM Mode on the electronic service tool before the engine serial number is entered. 
+Use the electronic service tool to read the parameters in the suspect ECM. 
+Record the parameters in the suspect ECM. 
+Install the flash file into the new ECM. 
+After the ECM is installed on the engine, the parameters must be programmed into the new ECM. 
+When a new ECM is not available, an ECM can be used from an engine that is not in service. 
+The ECM must have the same serial number suffix. 
+Ensure that the replacement ECM and the part number for the flash file match the suspect ECM. 
+Be sure to record the parameters from the replacement ECM. 
+Use the Copy Configuration ECM Replacement function in the electronic service tool. 
+If the flash file and engine application are not matched, engine damage may result. 
+Perform the following procedure to replace the ECM. 
+Use the Copy Configuration ECM Replacement function from the electronic service tool. 
+If the Copy Configuration is successful, proceed to Step . 
+If the Copy Configuration failed, proceed to Step . 
+Record any Logged Faults and Events for your records. 
+Record all of the parameters on the Configuration screen. 
+Record all of the parameters on the Mode Configuration screen. 
+Record all of the parameters on the Throttle Configuration screen. 
+Record all of the parameters on the Mode Configuration screen (if applicable). 
+Record all the parameters on the Configuration screen. 
+Record all the parameters on the Throttle Configuration screen. 
+Record all the parameters on the Mode Configuration screen. 
+Record the serial numbers of the electronic unit injectors. 
+The injector serial numbers are shown on the Injector Trim Calibration screen. 
+Record all the details on the Current Totals screen. 
+Record the data from the Current Totals screen. 
+If the parameters cannot be read, the parameters must be obtained elsewhere. 
+Some parameters are stamped on the engine information plate, but most parameters must be obtained from the TMI data on SIS Web. 
+Some parameters are stamped on the engine information plate, but most parameters must be obtained from the TMI data on SIS Web . 
+Some parameters are stamped on the engine information plate, but most parameters must be obtained from the factory. 
+Some parameters are stamped on the engine information plate, but most parameters must be obtained from the PTMI data on the Perkins intranet. 
+Some parameters are stamped on the engine information plate, but most parameters must be obtained from the TMI data on the CaterpillarSecured Internet. 
+Some parameters are stamped on the engine information plate, but most parameters must be obtained from PTMI data. 
+Remove power from the ECM. 
+Remove the ECM. 
+Install the replacement ECM. 
+If the replacement ECM is used as a test ECM, select Test ECM Mode on the electronic service tool. 
+Download the flash file. 
+Select the downloaded flash file. 
+If necessary, use the electronic service tool to clear the rating interlock. 
+If necessary, use Cat ET to clear the rating interlock. 
+If necessary, use the electronic service tool to clear the rating interlock. 
+To clear the rating interlock, enter the factory password when the electronic service tool is first connected. 
+To clear the rating interlock, enter the factory password when Cat ET is first connected. 
+To clear the rating interlock, enter the factory password when the electronic service tool is first connected. 
+Activating the Test ECM mode will also clear the rating interlock. 
+Use the electronic service tool to program the parameters. 
+Perform the following procedure. 
+If the Copy Configuration procedure was successful, use the Copy Configuration, ECM Replacement function to load the configuration file into the ECM. 
+During the following procedure, factory passwords may be required. 
+If the Copy Configuration procedure failed, configure the parameters individually. 
+The parameters should match the parameters from step . 
+Check for logged diagnostic codes. 
+Factory passwords are required to clear logged events. 
+Test ECM Mode is a feature in the software that can be used to help troubleshoot an engine that may have a fault in the Electronic Control Module (ECM). 
+This feature allows a standard ECM to be used as a test ECM. 
+This feature eliminates the need to stock a test ECM. 
+Search for the latest flash file for the engine. 
+If a newer software version is available for the engine, install the newest software on the suspect ECM. 
+If the new software does not eliminate the fault, continue with this procedure. 
+Use the Copy Configuration feature on the electronic service tool to copy the parameters from the suspect ECM. 
+Use the Copy Configuration feature on Caterpillar Electronic Technician (ET) to copy the parameters from the suspect ECM. 
+Use the Copy Configuration feature on the electronic service tool to program the test ECM. 
+Use the Copy Configuration/ECM Replacement feature on the electronic service tool to copy the configuration parameters from the suspect ECM to a personal computer (PC). 
+Copy the parameters with the Copy Configuration feature of the electronic service tool. 
+Use the Copy Configuration feature on the electronic service tool to copy the parameters from the suspect ECM. 
+If the ECM Replacement feature cannot be used, record the programmed values into the Parameters Worksheet. 
+Also record the system configuration parameters. 
+Disconnect the suspect ECM. 
+Temporarily connect the test ECM to the engine. 
+Do not mount the test ECM on the engine. 
+Flash program the test ECM with the newest software that is available. 
+Start the Test ECM Mode on the electronic service tool. 
+Access the feature through the Service menu. 
+The electronic service tool will display the status of the test ECM and the hours that are remaining for the Test ECM Mode. 
+The electronic service tool will display the status of the Test ECM Mode and the hours that are remaining for the Test ECM Mode. 
+Cat ET will display the status of the test ECM and the hours that are remaining for the Test ECM Mode. 
+Cat ET will display the status of the Test ECM Mode and the hours that are remaining for the Test ECM Mode. 
+Cat ET will display the status of the Test ECM Mode and the hours that are remaining for the Test ECM Mode . 
+Test ECM Mode can only be activated if the engine serial number has not already been programmed during normal operation of the ECM. 
+If the engine serial number is programmed with the ECM not in Test ECM Mode, the ECM can never be used as a test ECM. 
+Use the Copy Configuration feature on Cat ET to program the test ECM. 
+Use the Copy Configuration - ECM Replacement feature on the electronic service tool. 
+Use the Copy Configuration/ECM Replacement feature on the electronic service tool to program the correct parameters into the new ECM. 
+Use the Copy Configuration feature on the electronic service tool to program the test ECM. 
+Program the engine serial number into the test ECM. 
+The Test ECM Mode must be activated before the engine serial number is programmed into the ECM. 
+Verify that the test ECM eliminates the fault. 
+When the Test ECM Mode is activated, an internal timer sets a 24-hour clock. 
+This clock will count down only while the ECM is powered and the keyswitch is in the ON position. 
+After the ECM has counted down the 24-hour period, the ECM will exit the Test ECM Mode. 
+The parameters and the engine serial number will be set. 
+If the test ECM eliminates the fault, the engine can be released while the Test ECM Mode is still active. 
+Once an ECM has been activated in the Test ECM Mode, the ECM will stay in the Test ECM Mode until the timer times out. 
+Anytime prior to the Test ECM Mode timing out, the Test ECM Mode can be reset to 24 hours. 
+If the ECM is used as a test ECM for more than one engine, reactivate the Test ECM Mode. 
+The reactivation will reset the parameters to default values. 
+Then use the Copy Configuration feature to program the parameters into the test ECM or manually program the parameters to the correct values. 
+Most electrical faults are caused by poor connections. 
+The following procedure will help in detecting faults with connectors and with wiring. 
+If a fault is found, correct the condition and verify that the fault is resolved. 
+Intermittent electrical faults are sometimes resolved by disconnecting and reconnecting connectors. 
+Check for diagnostic codes immediately before disconnecting a connector. 
+Also check for diagnostic codes after reconnecting the connector. 
+If the status of a diagnostic code is changed due to disconnecting and reconnecting a connector, there are several possible reasons. 
+The likely reasons are loose terminals, improperly crimped terminals, moisture, corrosion, and inadequate mating of a connection. 
+Always use a Crimp Tool to service Deutsch HD and DT connectors. 
+Always use a CH11155Crimp Tool to service Deutsch HD and DT connectors. 
+Always use a 1U-5804Crimp Tool to service Deutsch HD and DT connectors. 
+Always use a Crimp Tool12-GA to 18-GA to service Deutsch HD and DT connectors. 
+Always use a Crimp Tool12-GA TO 18-GA to service Deutsch HD and DT connectors. 
+Always use a 2900A033Crimp Tool to service Deutsch HD and DT connectors. 
+Never solder the terminals onto the wires. 
+Always use a 28170079Removal Tool to remove wedges from DT connectors. 
+Never use a screwdriver to pry a wedge from a connector. 
+Always use a Crimp Tool to service AMP seal connectors. 
+Always use a CH11155Crimp Tool to service AMP seal connectors. 
+Always use a 1U-5804Crimp Tool to service AMP seal connectors. 
+Always use a 2900A033Crimp Tool to service AMP seal connectors. 
+Refer to TroubleshootingECM Harness Connector Terminals in order to service the connectors for the Electronic Control Module (ECM). 
+Refer to TroubleshootingElectrical Connectors to service the connectors for the Electronic Control Module (ECM). 
+Always use a breakout harness for a voltmeter probe or a test light. 
+Never break the insulation of a wire to access a circuit for measurements. 
+If a wire is cut, always install a new terminal for the repair. 
+Inspect all the harnesses. 
+Ensure that the routing of the wiring harness allows the wires to enter the face of each connector at a perpendicular angle. 
+Otherwise, the wire will deform the seal bore. 
+This situation can create a path for the entrance of moisture. 
+Verify that the seals for the wires are sealing correctly. 
+Ensure that the sealing plugs are in place. 
+If any of the plugs are missing, replace the plug. 
+Ensure that the plugs are inserted correctly into the connector. 
+Disconnect the suspect connector and inspect the connector seal. 
+Ensure that the seal is in good condition. 
+If necessary, replace the connector. 
+Thoroughly inspect the connectors for evidence of moisture entry. 
+Note: Some minor seal abrasion on connector seals is normal. 
+Minor seal abrasion will not allow the entry of moisture. 
+If moisture or corrosion is evident in the connector, the source of the moisture entry must be found and repaired. 
+If the source of the moisture entry is not repaired, the fault will recur. 
+Simply drying the connector will not rectify the fault. 
+Moisture can also travel to a connector inside a wire. 
+If moisture is found in a connector, thoroughly check the connector harness for damage. 
+Also check other connectors that share the harness for moisture. 
+Note: The ECM is a sealed unit. 
+If moisture is found in an ECM connector, the ECM is not the source of the moisture. 
+Do not replace the ECM. 
+Check the connectors for white deposits. 
+White deposits may indicate that the connector has been contaminated with Diesel Exhaust Fluid (DEF). 
+DEF may corrode the copper wire in the wiring harness. 
+Harness, connectors, and seals are OK. 
+Result: A fault has been found with the harness or the connectors. 
+Repair: Repair the connectors or the wiring, as required. 
+Repair: Repair the connectors or the wiring as required. 
+Repair the connectors or the wiring as required. 
+Repair the connectors or the wiring, as required. 
+Repair: Repair the wiring and/or the connectors. 
+Repair: Repair the wiring and/or the connector. 
+Repair: Repair the connectors or the wiring, as required. 
+Ensure that all the seals are correctly installed. 
+Ensure that the connectors have been reattached. 
+If corrosion is evident on the pins, sockets or the connector, use only denatured alcohol to remove the corrosion. 
+Use a cotton swab or a soft brush to remove the corrosion. 
+If moisture was found in the connectors, run the engine for several minutes and check again for moisture. 
+If moisture reappears, the moisture is wicking into the connector. 
+Even if the moisture entry path is repaired, replacement of the wires may be necessary. 
+Result: The harness, connectors, and seals are in good condition. 
+Carefully inspect each wire for signs of abrasion, nicks, and cuts. 
+Check all the fasteners for the harness and the strain relief components on the ECM to verify that the harness is correctly secured. 
+Also check all the fasteners to verify that the harness is not compressed. 
+Pull back the harness sleeves to check for a flattened portion of wire. 
+A fastener that has been overtightened flattens the harness. 
+This condition damages the wires that are inside the harness. 
+The wiring is OK 
+Result: There is damage to the harness. 
+Repair: Replace the harness. 
+Result: The wires are free of abrasion, nicks, and cuts and the harness is correctly clamped. 
+Note: The ECM connectors cannot be repaired. 
+If damage is found on an ECM connector, the harness must be replaced. 
+Visually inspect each terminal in the connector. 
+Verify that the terminals are not damaged. 
+Verify that the terminals are correctly aligned in the connector and verify that the terminals are correctly located in the connector. 
+Result: The terminals of the connector are damaged. 
+Repair: Repair the terminals and/or replace the terminals, as required. 
+Result: The terminals are OK. 
+A typical example of the lock wedge. 
+Ensure that the locking wedge for the connector is installed correctly. 
+Terminals cannot be retained inside the connector if the locking wedge is not installed correctly. 
+Perform the pull test on each wire. 
+Perform the 45 N10 lb pull test on each wire. 
+Perform the 45 N10 lb. pull test on each wire. 
+Perform the 45 N 10 lb pull test on each wire. 
+Perform the pull test on each wire. 
+Each terminal and each connector should easily withstand of tension and each wire should remain in the connector body. 
+This test checks whether the wire was correctly crimped in the terminal and whether the terminal was correctly inserted into the connector. 
+Result: A wire has been pulled from a terminal or a terminal has been pulled from the connector in the pull test. 
+Repair: Use the Crimp Tool to replace the terminal. 
+Repair: Use the 1U-5804Crimp Tool to replace the terminal. 
+Repair: Use the Crimp Tool to replace the damaged terminals. 
+Use the Crimp Tool to replace the terminal. 
+Repair: Use the Crimp Tool12-GA TO 18-GA to replace the terminal. 
+Repair: Use the 2900A033Crimp Tool to replace the terminal. 
+Replace damaged connectors, as required. 
+Result: All terminals pass the pull test. 
+Ensure that the connectors lock correctly. 
+After locking the connectors, ensure that the two halves cannot be pulled apart. 
+Verify that the latch tab of the connector is correctly latched. 
+Also verify that the latch tab of the connector returns to the locked position. 
+Result: The locking mechanism for the connector is damaged or missing. 
+Repair: Repair the connector or replace the connector, as required. 
+Repair: Repair the connector or replace the connector as required. 
+Repair the connector or replace the connector, as required. 
+Repair: Repair the connectors or replace the connectors or screws, as required. 
+Repair: Repair the connector or replace the connector. 
+Repair or replace the connector, as required. 
+Repair: Repair the connector or replace the connector, as required. 
+Result: The connectors are in good condition. 
+Select the Wiggle Test from the diagnostic tests on the electronic service tool. 
+Select Wiggle Test from the diagnostic tests on the electronic service tool. 
+Select the Wiggle Test from the diagnostic tests on the Cat ET service tool. 
+Select the Wiggle Test from the diagnostic tests on Cat Electronic Technician (Cat ET) Service Tool. 
+Select the Wiggle Test from the diagnostic tests on Cat? Electronic Technician (Cat ET) Service Tool. 
+Choose the appropriate group of parameters to monitor. 
+Press the Start button. 
+Press the START button. 
+press the START button. 
+Press start button 2. 
+If equipped, press the start button. 
+Wiggle the wiring harness to reproduce intermittent faults. 
+If an intermittent fault exists, the status will be highlighted and an audible beep will be heard. 
+Intermittent faults were indicated. 
+Result: No intermittent faults were found. 
+If directed here from another procedure, return to the procedure and continue testing. 
+If this test confirms that the fault has been eliminated, return the engine to service. 
+Result: At least one intermittent fault was indicated. 
+Repair: Repair the harness or the connector. 
+When an emergency situation occurs, initial activation of the override is allowed without input from Caterpillar?. 
+When an emergency situation occurs, initial activation of the override is allowed without input from Perkins. 
+Prior to activation, the operator will be notified of the following on display : EMERGENCY USE ONLY. 
+When an emergency situation occurs, initial activation of the override is allowed without input from Caterpillar. 
+PENALTIES APPLY FOR MISUSE. 
+Upon activation, the check engine and action lamps will illuminate to alert the operator that the override is active. 
+Upon activation, the amber warning lamp will illuminate to alert the operator that the override is active. 
+Upon activation, the check engine, and action lamps will also illuminate to alert the operator that the override is active. 
+A code indicating that the inducement emergency override is active will also be active until the override is reset. 
+A code will also become active indicating that the engine emission operator inducement emergency override is active. 
+While paused, the equipment will be subject to derates. 
+While the override is paused, the equipment will be subject to derate. 
+While paused, the equipment will be subject to inducements (derates). 
+After 120 hours of override use, or backstop timer threshold met, override will expire, and the equipment will be subject to derate. 
+After 120 hours of override use the override will expire, and the equipment will be subject to inducements. 
+Upon activation, the check engine and action lamps will be illuminated until and the override is reset. 
+The check engine and action lamps will continue to be illuminated until the override is reset. 
+Upon activation, the check engine and action lamps will continue to be illuminated until the override is reset. 
+If the override has expired, the distributor will need to reset the override to use the override again. 
+Once the override has expired, a Cat dealer will need to reset the override to use the override again. 
+If the override has expired, the dealer will need to reset the override to use the override again. 
+The override needs to be reset by a Cat dealer through Cat? Electronic Technician (ET) whenever the override has expired. 
+The override needs to be reset by an authorized dealer or distributor through the electronic service tool whenever the override has expired. 
+The warning lamp will continue to be illuminated until the override is reset. 
+Click Reset button at the bottom of the screen. 
+Click the Start button at the bottom of the screen. 
+Click on the Start button at the bottom of the screen. 
+Click the OK button at the very bottom of the screen. 
+Click the Update Status button at the bottom of your screen. 
+Click the Reset button at the bottom of the screen. 
+Reset. 
+Result: The Emergency Inducement Operator Override Reset was performed. 
+The Electronic Control Module (ECM) detects a low current condition (open circuit) in the start relay control circuit. 
+The Electronic Control Module (ECM) detects an open circuit condition for the Selective Catalytic Reduction (SCR) relay control circuit for at least 2 seconds. 
+The Electronic Control Module (ECM) detects a high current condition (short circuit) in the start relay control circuit. 
+The Electronic Control Module (ECM) detects a low current condition in the aftertreatment power relay circuit. 
+The Electronic Control Module (ECM) detects a low current condition (open circuit) in the ECM power relay control circuit. 
+The Electronic Control Module (ECM) detects a low current condition in the Selective Catalytic Reduction (SCR) main relay control circuit. 
+The ECM detects a high current condition for the SCR relay control circuit for a least 0.05 seconds. 
+The ECM detects a high current condition in the aftertreatment power relay circuit. 
+The ECM detects a high current condition in the SCR main relay control circuit. 
+Check that the fuses are not blown. 
+Inspect the terminals on the start relay. 
+Inspect the terminals on the ECM power relay. 
+Inspect the terminals on the SCR main relay. 
+Check the harness for abrasion and pinch points from the start relay back to the ECM. 
+Check the harness for abrasion and pinch points from the ECM power relay back to the ECM. 
+Check the harness for abrasion and pinch points from the start relay back to the ECMs. 
+Check the harness for abrasion and pinch points from the EFLP back to the ECM. 
+Check the harness for abrasion and pinch points from the starting motor relay back to the ECM. 
+Check the harness for abrasion and pinch points from the SCR main relay back to the ECM. 
+Replace any blown fuses. 
+Use the electronic service tool to perform the Aftertreatment System Functional Test to verify that the repair eliminates the fault. 
+The fuses are not blown. 
+Note: Do not start the engine. 
+Result: Diagnostic code 723-8 is active or recently logged. 
+Result: Diagnostic code 190-8 is active or recently logged. 
+Result: An -5 diagnostic code is active or recently logged. 
+Fabricate a jumper wire. 
+Install the jumper wire between terminal 1 and terminal 2 on the harness connector for the start relay. 
+Install the jumper wire between terminal 85 and terminal 86 on the harness connector for the aftertreatment power relay. 
+Install the jumper wire between terminal 2 and terminal 5 on the harness connector for the ECM power relay. 
+Install the jumper between terminal 1 and terminal 2 on the harness connector for the relay. 
+Install a jumper wire between terminal 85 and terminal 86 of the connector for the prelube relay. 
+Install the jumper wire between terminal 85 and terminal 86 on the harness connector for the SCR main relay. 
+Turn the keyswitch to the OFF position and remove the jumper wire. 
+Result: A -6 diagnostic code is active with the jumper installed. 
+Result: A -5 diagnostic code is active with the jumper installed. 
+Result: A 677-6 diagnostic code is active with the jumper installed. 
+Result: A 100-2 diagnostic code is active with the jumper installed. 
+Result: A 97-15 diagnostic code is active with the jumper installed. 
+Repair: Install a replacement main relay. 
+Repair: Install a replacement auxiliary main relay. 
+Repair: Install a replacement SCR main relay. 
+Note: This step is only applicable if an interface connector is installed between the SCR main relay and the ECM. 
+Disconnect the connector for the start relay. 
+Disconnect the connector for the prelube relay. 
+Disconnect the connector for the fuel pump relay. 
+Disconnect the connector for the SCR main relay. 
+Disconnect the interface connector between the SCR main relay and the ECM. 
+Use a suitable multimeter to measure the resistance between terminal 85 on the harness connector for the suspect line heater and the appropriate pin/terminal on the interface connector. 
+There is a fault in the wiring between the SCR main relay connector and the interface connector. 
+Disconnect the P1 connector from the ECM. 
+Inspect the P1 connector. 
+Measure the resistance between terminal 1 on the harness connector for the relay and P1:10. 
+Measure the resistance between Terminal 86 on the harness connector for the start relay and P1:15. 
+Measure the resistance between Terminal 5 on the harness connector for the ECM power relay and P1:58. 
+Measure the resistance between Terminal 85 on the harness connector for the aftertreatment power relay and P1:5. 
+Measure the resistance between Terminal 85 on the harness connector for the SCR main relay and P1:50. 
+The fault is in the wiring between the relay and the ECM. 
+The fault is in the wiring between the relay and the EFLP. 
+The fault is in the wiring between the SCR main relay and the ECM. 
+Result: Both resistance measurements are less than five Ohms. 
+Result: The resistance measurements are both less than 2 Ohms. 
+Result: All resistance measurements are less than 2 Ohms. 
+Result: The resistance measurements are both less than two Ohms. 
+Result: Both resistance measurements are less than 2 Ohms. 
+Disconnect the SCR Relay. 
+Disconnect the SCR relay. 
+Disconnect the ECM main relay. 
+Disconnect the auxiliary main relay. 
+Disconnect the SCR main relay. 
+Result: A 677-5 diagnostic code is active with the relay disconnected. 
+Result: A 3467-5 diagnostic code is active with the relay disconnected. 
+Result: A 676-5 (2246-5) diagnostic code is active with the relay disconnected. 
+Result: A 677-5 or 444-5 diagnostic code is active with the relay disconnected. 
+Result:A 676-5 or 2246-5 diagnostic code is active with the relay disconnected. 
+Result: The 2417-6 diagnostic code is still active with the relay disconnected. 
+Measure the resistance between terminal P1-66 and all of the other terminals in the P1 connector. 
+Measure the resistance between terminal P1-18 and all of the other terminals in the P1 connector. 
+Measure the resistance between terminal J1-36 and all of the other terminals on the J1 connector. 
+Measure the resistance between the Start Relay Control terminal and all other terminals on the P1 connector. 
+Measure the resistance between terminal EISC-D and all of the other terminals on the EIS connector. 
+Measure the resistance between P1:50 and all other terminals on the P1 connector. 
+There is a short in the wiring between the relay and the ECM. 
+Note: Certain diagnostic codes and/or event codes may cause high fuel consumption. 
+Repair: Troubleshoot the code and then verify that the fuel consumption is normal. 
+Note: Misreading of the fuel gauge can give a false indication of fuel consumption. 
+Monitor the fuel consumption over a period of 50 engine hours. 
+Result: Fuel consumption is normal for the operating conditions. 
+Result: Fuel consumption is high for the operating conditions. 
+Check the engine for signs of fuel leakage. 
+Result: Evidence of a fuel leak is found. 
+Repair: Repair or replace the component that is leaking fuel. 
+Result: No evidence of a fuel leak is found. 
+Note: The grade of the fuel affects the rate of fuel consumption. 
+Refer to the engines Operation and Maintenance Manual for additional information. 
+Refer to the Operation and Maintenance Manual for information on improving the characteristics of the fuel during cold-weather operation. 
+Refer to Systems Operation, Testing and AdjustingFuel Quality - Test. 
+Result: The fuel quality does not meet specifications. 
+Result: The fuel quality meets specifications. 
+Note: The nominal viscosity of the lubricating oil that is used in the engine will affect the rate of fuel consumption. 
+The viscosity of lubricating oil is defined by the SAE grade of the lubricating oil. 
+The grade of the lubricating oil must be correct for the ambient conditions. 
+Lubricating oil for high ambient temperatures will affect fuel consumption in cold ambient temperatures. 
+Check that the engine oil meets the required specification. 
+Refer to Engine Oil in the Operation and Maintenance ManualRefill Capacities. 
+Result: The engine oil does not meet the required specification. 
+Repair: Drain and fill the oil system with oil of an acceptable quality. 
+Refer to the applicable sections in the Operation and Maintenance Manual. 
+Refer to the applicable Operation and Maintenance Manual. 
+Refer to the applicable procedure in the Operation and Maintenance Manual. 
+Refer to the applicable Operation and Maintenance Manual . 
+Refer to in this section of the Operation and Maintenance Manual. 
+Refer to the applicable Operation and Maintenance Manual for more information. 
+Refer to the applicable sections in the Operation and Maintenance Manual. 
+Result: The engine oil meets the required specification. 
+Note: The operating temperature of the engine will affect the rate of fuel consumption. 
+Operation of the engine below the correct temperature will increase fuel consumption. 
+Failure of the water temperature regulator can prevent the engine from operating at the correct temperature. 
+Refer to Systems Operation, Testing and AdjustingWater Temperature Regulator - Test. 
+Note: Prolonged operation of the engine at idle speed increases fuel consumption. 
+Check for extended periods of engine operation at idle speed. 
+Result: The engine is operating at idle speed for extended periods. 
+When possible, stop the engine to conserve fuel. 
+Result: The engine is not operating at idle speed for extended periods. 
+Repair: Refer to Systems Operation, Testing and AdjustingAir Inlet and Exhaust System for additional information on the air inlet and exhaust systems. 
+Note: Excessive operation of the cooling fan or damage to the cooling fan will increase fuel consumption. 
+Check the operation and condition of the cooling fan. 
+Result: The cooling fan is operating excessively. 
+Repair: Repair or replace the faulty cooling fan components. 
+Result: The cooling fan is damaged excessively. 
+Result: The cooling fan is not operating excessively and is not damaged. 
+Either of these conditions will increase the fuel consumption. 
+Check all pipes from the outlets of the turbocharger compressor to the inlet manifold for leaks. 
+Result: There is a leak in the intake air system. 
+Repair: Repair the leak or replace the component that is causing the leak. 
+Result: The turbocharger wastegate is not operating correctly. 
+Result: The air intake system and the wastegate are OK. 
+Check for excessive valve lash. 
+Refer to Systems Operation, Testing and AdjustingEngine Valve Lash - Inspect/Adjust for the correct procedure. 
+Refer to Systems Operation, Testing, and AdjustingEngine Valve Lash - Inspect/Adjust for the correct procedure. 
+Refer to Systems Operation, Testing, and AdjustingEngine Valve Lash - Inspect/ Adjust for the correct procedure. 
+Refer to Systems Operation, Testing and Adjusting Engine Valve Lash - Inspect/Adjust for the correct procedure. 
+Refer to Systems Operation, Testing and AdjustingEngine Valve Lash - Inspect for the correct procedure. 
+Upon initial cranking, the status for engine speed may indicate that the engine speed signal is abnormal. 
+Result: The primary speed/timing sensor is not operating correctly. 
+Repair: Test the primary speed/timing sensor. 
+Result: The primary speed/timing sensor is operating correctly. 
+The Electronic Control Module (ECM) performs calibrations of pressure sensors automatically. 
+Use this procedure if the diagnostic code in Table is active or easily repeated. 
+The warning lamp will come on and the engine will derate. 
+The warning lamp will flash and the engine will be derated. 
+The amber warning lamp will start to flash and the engine will be derated. 
+The warning lamp will be on and the engine oil pressure lamp will come on while the derate is active. 
+The engine warning lamp will come on. 
+The warning lamp will come on and the engine will be derated. 
+The offset between the intake manifold air pressure and the barometric pressure is outside the acceptable range during initialization check. 
+The offset between the NRS inlet pressure and the barometric pressure is outside the acceptable range during initialization check. 
+The offset between the intake manifold air pressure and the barometric pressure is outside the acceptable range during sensor calibration with the engine not running. 
+The offset between the NRS inlet pressure and the barometric pressure is outside the acceptable range during sensor calibration when the engine is not running. 
+The offset between the DPF inlet pressure and the barometric pressure is outside the acceptable range during initialization check. 
+The offset between the DPF inlet pressure and the barometric pressure is outside the acceptable range during sensor calibration with the engine not running. 
+Use the electronic service tool to check that coolant temperature, intake manifold air temperature, and NRS temperature are all at least 5° C41° F. 
+Use the electronic service tool to check that coolant temperature and intake manifold air temperature are all at least . 
+Verify that coolant temperature, intake manifold air temperature, and NRS temperature are all now at least 5° C41° F. 
+Use the electronic service tool to check that coolant temperature, intake manifold air temperature, and NRS temperature are all at least . 
+Note: Wait at least 10 seconds in order for the diagnostic codes to become active. 
+Use the electronic service tool in order to monitor active diagnostic codes or recently logged diagnostic codes. 
+Check the electronic service tool for any active diagnostic codes or logged diagnostic codes. 
+Monitor the electronic service tool for active and/or recently logged diagnostic codes. 
+Use the electronic service tool to monitor active diagnostic codes or recently logged diagnostic codes. 
+Look for an active or logged -3 or -4 codes for the pressure sensor or the barometric pressure sensor. 
+Look for an active or logged -13 code for a pressure sensor or the barometric pressure sensor. 
+Results: No diagnostic codes are active for the engine pressure sensors. 
+Result: There are no active diagnostic codes for the throttle position sensors. 
+Result: There are no active sensor supply diagnostic codes. 
+Result: There are no active diagnostic codes for the pressure sensors. 
+Repair: If there are logged diagnostic codes for the intake manifold pressure sensor, the fault may be intermittent. 
+If there are logged diagnostic codes for the intake manifold pressure sensor, the fault may be intermittent. 
+If there are logged diagnostic codes for the pressure sensors, the fault may be intermittent. 
+If there are logged diagnostic codes for the throttle switch, the fault may be intermittent. 
+Repair: If there are logged diagnostic codes for the intake manifold pressure sensor, the fault may be intermittent. 
+Result: One or more of the temperature sensors is reading less than . 
+Result: There is an active -3 or -4 diagnostic code for a pressure sensor or the barometric pressure sensor. 
+Repair: Troubleshoot these codes before continuing with this procedure. 
+Repair: Troubleshoot the codes before continuing with this procedure. 
+Repair: Troubleshoot the diagnostic codes before continuing with this procedure. 
+Repair: Troubleshoot these codes before continuing with this procedure. 
+Result: There are active diagnostic codes. 
+Result: There are no active diagnostic codes. 
+Result: There are multiple -13 diagnostic codes active. 
+Result: There is an active -13 diagnostic code for only one sensor. 
+Result: There is an active or there is a logged -13 code for only one sensor. 
+Result: There is an active -13 diagnostic code for only one sensor. 
+Move the machine into an environment where the ambient temperature is greater than for the duration of any troubleshooting. 
+Move the machine into an environment where the ambient temperature is greater than 5° C41° F for the duration of any troubleshooting. 
+Move the machine into an environment where the ambient temperature is greater than during any troubleshooting. 
+If engine has been operated or stored in cold ambient conditions where there is a risk of ice formation on a sensor or sensor pipes, run engine until the coolant temperature exceeds for 20 minutes. 
+Wait for at least 20 seconds. 
+The electronic service tool will disconnect. 
+Verify that coolant temperature and intake manifold air temperature are now at least . 
+Verify that coolant temperature, intake manifold air temperature, and NRS temperature are all now at least . 
+Check for Active diagnostic codes. 
+Check for ACTIVE diagnostic codes. 
+Check for Active Diagnostic Codes. 
+Check for ACTIVE Diagnostic Codes. 
+Check for active -13 diagnostic codes. 
+Check that the intake manifold air pressure sensor is installed correctly. 
+Check that the suspect sensor is installed correctly. 
+Check that the connector is fully seated at the sensor. 
+Check that the suspect sensor is fully seated into the engine. 
+Result: There are no active -13 codes. 
+Result: There is no active -13 code. 
+Result: There are no active codes or associated codes. 
+Result: There are no active -13 codes. 
+Repair: The fault was caused by ice in the system that has now been thawed. 
+Repair: The fault was caused by ice in the system that has now been thawed. 
+Result: A single -13 code is active or logged. 
+Result: A -11 code is active or logged. 
+Result: A single -13 code is active or logged. 
+Install the Electronic Control Module (ECM). 
+Install the electronic control module (ECM). 
+Install electronic control module. 
+Install a new Electronic Control Module (ECM). 
+Note: The Barometric Pressure Sensor is located within the ECM so cannot be replaced separately. 
+To replace the Barometric Pressure Sensor, the ECM must be replaced. 
+Monitor the status parameter for the suspect sensor on the electronic service tool. 
+The fault was caused by a faulty barometric pressure sensor. 
+Use the electronic service tool to clear all logged codes. 
+Result: A -13 code is active. 
+Disconnect the suspect sensor and remove the suspect sensor from the engine. 
+Disconnect the sensor connector for the suspect sensor. 
+Disconnect the suspect sensor from the harness at the sensor connector. 
+Disconnect the connector from the suspect sensor. 
+Disconnect the connector for the suspect sensor and remove the sensor from the engine. 
+Check the sensor for a blockage. 
+Temporarily reconnect the sensor to the harness. 
+Do not install the sensor on the engine. 
+Check for an active -3 diagnostic code for the suspect sensor. 
+Check for an active 3 diagnostic code for the suspect sensor. 
+Check for an active 03 diagnostic code for the suspect sensor. 
+Check for an active 04 diagnostic code for the suspect sensor. 
+Check for an active -13 diagnostic code for the suspect sensor. 
+Result: There is an active -13 code or the sensor is blocked 
+Temporarily connect a new sensor to the harness. 
+If the fault is eliminated, permanently install the new sensor. 
+Refer to Disassembly & Assembly for the correct installation procedure. 
+If the fault is still present, proceed to Test Step 3. 
+Use this procedure to troubleshoot the electrical system if a problem is suspected with the CAN data link . 
+Use this procedure to troubleshoot the electrical system if a problem is suspected with the Cat Data Link. 
+Use this procedure to troubleshoot the electrical system if a fault is suspected with the CAN data link sensors. 
+Also use this procedure if a diagnostic code in the table is active or easily repeated. 
+Also use this procedure if the diagnostic code in Table is active or easily repeated. 
+Also, use this procedure if the diagnostic code in Table is active or easily repeated. 
+Use this procedure if a diagnostic code in Table is active or easily repeated. 
+Also use this procedure if a diagnostic code in Table is active or easily repeated. 
+The data received from the ammonia (NH3) sensor is out of range. 
+The data received from the DCU is out of range. 
+The data received from the NOx sensor is out of range. 
+The warning lamp is also illuminated. 
+The amber warning lamp is illuminated. 
+The warning lamp will be illuminated. 
+The warning lamp will illuminate. 
+The ECM illuminates the warning lamp. 
+The warning lamp is illuminated. 
+If the electronic service tool will not communicate with the ECM, refer to TroubleshootingElectronic Service Tool Does Not Communicate before starting this procedure. 
+The procedure verifies that electrical power is being supplied to the ECM and to the service tool connector. 
+The procedure verifies that electrical power is being supplied to the engine ECM and to the service tool connector. 
+The procedure will verify that electrical power is being supplied to the ECM and to the service tool connector. 
+The procedure verifies that electrical power is being supplied to the ECM and to the diagnostic connector. 
+The CAN data link is used to communicate information between the ECM and other control modules that are on the engine. 
+The CAN data link is used to communicate information between the master ECM and other control modules that are on the engine. 
+The CAN data link is used to communicate information between the ECM and other control modules. 
+The data links are used to communicate information between the engine ECM and other control modules that are a part of the application. 
+The electronic service tool must communicate with the ECM on the J1939 data link. 
+The Cat Electronic Technician (ET) service tool also communicates with other ECMs through the data link. 
+The data link is used by the ECM in order to communicate with the electronic service tool. 
+The electronic service tool communicates on both data links. 
+The electronic service tool also communicates with the ECM via the data links. 
+The service tool connector contains connections for electrical power and for the data links. 
+The diagnostic connector contains connections for electrical power and for the data links. 
+When the keyswitch is in the OFF position, Cat ET may communicate with the ECM. 
+When the keyswitch is in the OFF position, the ECM may communicate with Cat ET. 
+The keyswitch must be in the ON position for the electronic service tool to communicate with the engine ECM. 
+When the keyswitch is in the OFF position, the electronic service tool may communicate with the ECM. 
+The communications may be disrupted and the communications may require frequent reconnection. 
+However, the communications may be disrupted and the communications may require frequent reconnection. 
+In order to avoid any disruption, place the keyswitch in the ON position when the electronic service tool is being used. 
+To avoid any disruption, place the keyswitch in the ON position when the electronic service tool is being used. 
+The electronic service tool displays an error message. 
+The version of the ECM is not recognized and the integrity of the changed parameters and displayed data is not guaranteed. 
+The flash file in the ECM is newer than the version of Cat ET. 
+The flash file in the ECM is newer than the version of the electronic service tool. 
+The latest version of Cat ET has not been installed. 
+The latest version of the electronic service tool has not been installed. 
+Not all connectors are shown. 
+Refer to the appropriate Electrical Schematic. 
+Refer to the Electrical Schematic for the application for details of any connectors between the sensor connectors and the ECM connectors. 
+Inspect all of the connectors that are associated with the CAN data link. 
+Inspect all the connectors that are associated with the CAN data link. 
+Thoroughly inspect the connectors that are associated with the data link circuits. 
+Verify that the connectors are free of debris, free of corrosion and securely connected. 
+Verify that the harness connectors are free of debris, free of corrosion and was securely connected. 
+Verify that the harness connector is free of debris, free of corrosion, and securely connected. 
+Verify that the harness connector is free of debris, free of corrosion and securely connected. 
+Verify that the harness connector is free of debris, free of corrosion, and was securely connected. 
+Verify that the connectors are free of debris, free of corrosion, and securely connected. 
+Perform a 45 N10 lb pull test on all of the wires associated with the data link circuits. 
+Perform a pull test on each of the wires that are associated with the data link circuit. 
+Perform a pull test on each of the wires associated with the circuit. 
+Perform a Pull Test on each of the wires associated with the circuit. 
+Perform a pull test on each of the wires that are associated with the circuit for the data link. 
+Perform a pull test on all the wires associated with the data link circuits. 
+Result: The connectors were connected properly and did not have corrosion or moisture. 
+Result: The connectors were not connected properly or the connectors did have corrosion or moisture. 
+Result: The connectors were connected correctly and did not have corrosion or moisture. 
+Result: The connectors were not connected correctly or the connectors have corrosion or moisture. 
+Repair : Repair the connectors and/or the wiring. 
+Repair: Repair the connector and/or the wiring. 
+Repair The connectors and/or the wiring. 
+Repair the connectors and/or the wiring. 
+Repair: Repair the connectors and/or the wiring. 
+replace parts, if necessary. 
+Replace parts if necessary. 
+Replace the parts, if necessary. 
+Replace part, if necessary. 
+Replace the parts if necessary. 
+Replace parts, if necessary. 
+Result: There is an active or recently logged 4377-12 diagnostic code. 
+Repair: Install a replacement DOC temperature sensor. 
+Repair: Install a replacement temperature sensor. 
+Repair: Install a replacement inlet manifold temperature sensor. 
+Repair: Install a replacement DPF/DOC inlet temperature sensor. 
+Repair: Install a replacement SCR inlet temperature sensor. 
+Connect the electronic service tool to the J60 diagnostic connector. 
+Connect an electronic service tool to the diagnostic connector. 
+Disconnect the electronic service tool from the diagnostic connector. 
+Connect the electronic service tool to the J60 or J80 diagnostic connector. 
+A.Connect the electronic service tool to the diagnostic connector. 
+Use the electronic service tool to perform the Aftertreatment #1 Intake NOx Level Sensor Power Supply Override . 
+Use the electronic service tool to perform the Aftertreatment #1 Outlet #1 NOx Level Sensor Power Supply Override . 
+Use the electronic service tool to perform theAftertreatment #1 Intake NOx Level Sensor Power Supply Override . 
+Result: The diagnostic code is no longer active. 
+Result: The 3509 diagnostic code is no longer active. 
+Result: The 630-2 diagnostic code is no longer active. 
+Result: The 97-15 diagnostic code is no longer active. 
+Result: The 1221-2 diagnostic code is no longer active. 
+Result: The 4337-10 diagnostic code is no longer active. 
+Repair: Install a replacement NOx sensor. 
+Repair: Install a replacement for the suspect NOx sensor. 
+Repair: Install a replacement ammonia sensor. 
+Repair: Install a replacement NOx sensor. 
+Use the electronic service tool to perform theAftertreatment #1 Outlet #1 NOx Level Sensor Power Supply Override . 
+Result: Diagnostic codes became active during the test. 
+Result: The test passed and no diagnostic codes became active. 
+Result: The Wiggle Test failed. 
+Result: The EGR System Test failed. 
+Result: The ARD Ignition Test failed. 
+Result: The leak test fails. 
+Result: The lamp has failed. 
+Result: The test failed. 
+Repair: Troubleshoot any diagnostic codes that became active during the test. 
+Troubleshoot any diagnostic codes that became active during the calibration. 
+The diagnostic code became active during the test. 
+Troubleshoot any diagnostic codes that became active during the test. 
+Refer to TroubleshootingDiagnostic Trouble Code List. 
+Refer to TroubleshootingDetermining Diagnostic Trouble Codes. 
+If the procedure did not correct the fault, contact the Dealer Solutions Network (DSN). 
+The ECM detects that the barometric pressure sensor has failed. 
+The ECM detects that the signal voltage from the fuel rail pressure sensor is greater than 4.9 V for at least 0.2 seconds. 
+The ECM detects that the signal voltage from the fuel rail pressure sensor is greater than 4.9 VDC for at least 0.2 seconds. 
+The signal voltage for the fuel rail pressure sensor is more than 4.7 VDC for 0.6 seconds. 
+The ECM detects that the signal voltage for the fuel temperature sensor is greater than 4.93 VDC for at least 0.5 seconds. 
+The ECM detects that the signal voltage for the fuel temperature sensor is greater than 4.9 VDC for at least 0.5 seconds. 
+The ECM detects that the signal voltage for the fuel rail pressure sensor is greater than 4.7 V for 0.6 seconds. 
+The signal voltage for the fuel rail pressure sensor is less than 0.67 VDC for 0.6 seconds. 
+The signal voltage for the fuel rail pressure sensor is less than 0.065 VDC for 0.6 seconds. 
+The ECM detects that the signal voltage for the fuel rail pressure sensor is less than 0.3 V for 0.6 seconds. 
+The fuel rail pressure sensor has failed. 
+There are two methods to detect that the Fuel Pressure Sensor has failed. 
+The ECM detects that the fuel rail pressure sensor has failed. 
+The ECM detects that the signal voltage from the barometric pressure sensor is greater than 4.9 V for at least 0.8 seconds. 
+The ECM detects that the signal voltage from the DPF differential pressure sensor is less than 0.2 VDC for 1.8 seconds. 
+The ECM detects that the signal voltage from the Diesel Particulate Filter (DPF) differential pressure sensor is greater than 4.87 VDC for at least 1.8 seconds. 
+The ECM detects that the signal voltage for the NRS differential pressure sensor is greater than 4.8 V for 1 second. 
+The ECM detects that the signal voltage from the barometric pressure sensor is less than 0.2 V for at least 0.8 seconds. 
+The ECM detects that the signal from the DEF pump pressure sensor is less than 0.25 V for at least 1 second. 
+The ECM detects that the signal voltage for the NRS differential pressure sensor is less than 0.1 V for 1 second. 
+The ECM detects a signal voltage that is not in the acceptable range. 
+The ECM detects that the signal voltage for the DPF differential pressure sensor is greater that 4.8 V for 8 seconds. 
+The ECM detects that the signal voltage from the intake manifold air pressure sensor is less than 0.34 V for at least 0.2 seconds. 
+The ECM detects that the signal voltage from the barometric pressure sensor is less than 0.2 VDC for at least 0.8 seconds. 
+The ECM detects that the signal voltage for the DPF differential pressure sensor is less than 0.2 V for 8 seconds. 
+The ECM detects that the signal voltage from the barometric pressure sensor is greater than 4.9 VDC for at least 0.8 seconds. 
+The ECM has detected a voltage on the signal wire of the sensor that is greater than 4.8 V for 10 seconds. 
+The ECM detects that the signal voltage for the NRS intake pressure sensor is greater than 4.8 V for 0.25 seconds. 
+The ECM detects that the signal voltage from the intake manifold air pressure sensor is less than 0.34 VDC for at least 0.2 seconds. 
+The ECM detects that the signal voltage for the NRS intake pressure sensor is less than 0.4 V for 0.25 seconds. 
+The signal voltage from the intake manifold air pressure sensor is greater than 4.92 V for at least 0.5 seconds. 
+The signal voltage from the intake manifold air pressure sensor is greater than 4.92 VDC for at least 0.5 seconds. 
+The ECM detects a signal voltage from the Intake Manifold Air Temperature Sensor that is greater than 4.8 volts. 
+The ECM detects that the signal voltage for the intake manifold air pressure sensor is greater than 4.8 V for 1 second. 
+The signal voltage from the intake manifold air pressure sensor is less than 0.2 V for at least 0.5 seconds. 
+The signal voltage from the intake manifold air pressure sensor is less than 0.2 VDC for at least 0.5 seconds. 
+The ECM detects a signal voltage from the Intake Manifold Air Temperature Sensor that is less than 0.2 volts. 
+The ECM detects that the signal voltage for the intake manifold air pressure sensor is less than 0.4 V for 1 second. 
+The ECM detects that the signal voltage for the DPF intake pressure sensor is greater than 4.8 V for 6 seconds. 
+The ECM detects that the signal voltage for the DPF intake pressure sensor is less than 0.2 V for 6 seconds. 
+There are no active 3509 codes. 
+There are no active 3509(262) codes. 
+There are no active 3509 diagnostic codes. 
+There are no active 3509 or 3510 codes. 
+There are no active 168 codes. 
+When the ECM detects a voltage above a threshold on the signal circuit, an open circuit diagnostic code (XXXX-3) is generated for the sensor. 
+If the sensor is disconnected, pull-up voltage indicates that the wires from the sensor connector to the ECM are not open or shorted to ground. 
+If the sensor is disconnected, the absence of pull-up voltage indicates an open in the signal wire or a short to ground. 
+If the sensor is disconnected and the voltage is different from pull-up voltage, the signal wire is shorted to another wire in the harness. 
+Refer to the Electrical Schematic for the application for the wiring information for the auxiliary pressure sensor. 
+Look for active or logged diagnostic codes. 
+Look for active or logged diagnostic codes for the active sensors. 
+Result: There are no active diagnostic codes for the WIF sensor. 
+Result: There are no active diagnostic codes for the active sensors. 
+Result: There are no active diagnostic codes for the throttle position sensors - The fault may be intermittent. 
+Repair: If there are logged diagnostic codes for the active sensors, the fault may be intermittent. 
+Result: A diagnostic code that is not listed in Table is active. 
+Result: A diagnostic code listed in Table is active. 
+Result: A diagnostic code other than those listed in Table is active. 
+Result: A diagnostic code other than those listed is Table is active. 
+Result: One of the diagnostic codes listed in Table is active. 
+Result: A diagnostic code that is listed in Table is active. 
+Result: The supply voltage is approximately 5.0 ± 0.2 VDC 
+Connect the sensor and then proceed to Test Step 5. 
+Result: The supply voltage is not approximately 5.0 ± 0.2 VDC. 
+The fault is in the wiring for the suspect sensor. 
+Repair: The fault is in the wiring for the suspect sensor. 
+The fault is in the power supply or ground wiring for the suspect sensor. 
+The fault is in the 12 VDC supply wire to the WIF sensor. 
+The fault is in the 12 V power supply wiring to the oxygen sensor. 
+The fault is in the 5 V supply wiring to the suspect sensor. 
+Repair the wiring or replace the harness 
+Verify that the problem is resolved. 
+Wait at least 10 seconds for activation of the diagnostic codes. 
+Wait at least 20 seconds for activation of the diagnostic codes. 
+Wait at least 15 seconds for activation of the diagnostic codes. 
+Wait at least 30 seconds for activation of the diagnostic code. 
+Wait at least 60 seconds for activation of the diagnostic codes. 
+Result: A 157-12 diagnostic code is active. 
+Repair: Replace the fuel rail pressure sensor. 
+Note: Do not replace the fuel rail pressure sensor if the 157-12 diagnostic code is logged. 
+Only replace the sensor for an active 157-12 diagnostic code. 
+Result: A 108–12 diagnostic code is active. 
+Repair: Install a replacement ECM. 
+Result: A -3 or a -4 diagnostic code is active for one or more of the other pressure sensors. 
+Result: A -3 diagnostic code is active for one or more of the pressure sensors at this time. 
+Result: An XXXX-3 or an XXXX-4 diagnostic code is active for one or more of the pressure sensors. 
+Result: An XXXX-3 or an XXXX-4 diagnostic code is active for one or more of the other pressure sensors. 
+Result: An XXXX-3 diagnostic code is active for one or more of the temperature sensors at this time. 
+Result: A -3 diagnostic code is active for one or more of the active sensors. 
+Result: A -4 diagnostic code is active for one or more of the pressure sensors at this time. 
+Result: An XXXX-4 diagnostic code is active for one or more of the temperature sensors at this time. 
+Result: A -4 diagnostic code is active for one or more of the active sensors. 
+Use a jumper wire in order to create a short between the signal terminal and the ground terminal at the sensor connector. 
+Use a jumper wire to create a short between the signal terminal and the ground terminal at the engine interface connector. 
+Use a jumper wire to create a short between terminal 3 (signal) and terminal 2 (ground) at the sensor connector. 
+Use a jumper wire to create a short between terminal 3 (signal) and terminal 2 (sensor return) at the sensor connector. 
+Use the jumper wire to create a short between terminal 3 (sensor signal) and terminal 2 (sensor return) at the sensor connector. 
+Use a jumper wire to create a short between the signal terminal and the ground terminal at the sensor connector. 
+Monitor the diagnostic codes on the electronic service tool. 
+Result: A -4 diagnostic code became active after creating the short at the sensor connector. 
+Repair: The wiring is OK. 
+Replace the sensor. 
+Result: A -4 diagnostic code does not become active for the suspect sensor. 
+Disregard the other diagnostic codes. 
+Only look for codes that relate to the suspect sensor. 
+Only look for codes for the suspect sensor. 
+Result: A -4 diagnostic code became active after creating the short at the engine interface connector. 
+Repair: The fault is in the engine wiring harness. 
+Repair the harness or replace the harness. 
+Disconnect the P1/P2 connector from the ECM. 
+Thoroughly inspect the P1/J1 or P2/J2 ECM connectors. 
+Use a suitable multimeter to measure the resistance between the sensor signal terminal on the engine interface connector and the sensor signal terminal on the P1/P2 connector. 
+Result: The resistance is greater than 2 Ohms - There is a fault in the wiring between the engine interface connector and the P1/P2 connector. 
+Disconnect the sensor connector of the suspect sensor with the active -4 diagnostic code. 
+Result: A -3 diagnostic code became active after disconnecting the sensor. 
+The wiring is OK. 
+Result: A -3 diagnostic code did not become active after disconnecting the sensor. 
+Result: A -3 diagnostic code became active for the suspect sensor after disconnecting the engine interface connector. 
+Repair the engine wiring harness or replace the engine wiring harness. 
+Result: A -3 diagnostic code did not become active after disconnecting the engine interface connector. 
+Carefully following this procedure is the best way to identify the root cause of an intermittent problem. 
+Use the electronic service tool to run the Wiggle Test. 
+Slowly wiggle the wiring and the connectors between the P2 connector and the sensor. 
+Pay particular attention to the wiring near each connector. 
+Be sure to wiggle all the wiring. 
+As you wiggle the wiring look for these problems. 
+Result: The wiring failed the Wiggle Test. 
+There is a problem with the wiring. 
+Repair the wiring or replace the wiring. 
+Result: The wiring passed the Wiggle Test. 
+The problem may be intermittent. 
+Inspect the wiring. 
+Carefully inspect the terminals for proper installation. 
+Make sure that each terminal is clean and dry. 
+Insert a pin into each socket. 
+Verify that each socket grips the pin firmly. 
+Repair any problems. 
+Connect all connectors. 
+If the fault is intermittent and the fault cannot be duplicated, refer to TroubleshootingPower Is Intermittently Low or Power Cutout Is Intermittent. 
+If the fault only occurs under certain conditions, test the engine under those conditions. 
+Examples of certain conditions are high rpm, full load, and engine operating temperature. 
+Result: There are active codes. 
+Result: There are no active codes. 
+The fuel gauge may be faulty. 
+Check for fuel supply or return lines that are restricted. 
+Aged or perished fuel lines may collapse when in service and cause temporary restrictions. 
+If the EFLP is suspect, refer to TroubleshootingFuel Transfer Pump - Test. 
+Obtain a fuel analysis to confirm that the correct fuel is being used. 
+Refer to Systems Operation/Testing and AdjustingFuel Quality - Test for the correct procedure. 
+Refer to Systems Operation/Testing and AdjustingFuel Quality - Test, for the proper procedure. 
+Refer to Systems Operation/Testing and AdjustingFuel Quality - Test for the proper procedure. 
+Refer to Systems Operation, Testing and AdjustingFuel Quality - Test for the correct procedure. 
+Replace the in line fuel filter that is upstream of the EFLP. 
+Replace the in-line fuel filter that is upstream of the EFLP. 
+Replace the in-line fuel filter that is upstream of the electric fuel lift pump. 
+Replace the in-line fuel filter that is upstream of the primary fuel filter. 
+Replace the in line fuel filter that is upstream of the EPP. 
+Replace the primary and secondary fuel filters. 
+Note: This Test Step is only applicable if the machine has a hand or foot throttle. 
+Use the electronic service tool and observe the signal for the throttle position sensor. 
+Make sure that the throttle response is smooth and progressive. 
+Result: The throttle position sensor response is erratic. 
+Test the throttle position sensor. 
+Repair: Replace the suspect digital throttle position sensor. 
+Repair: Test the throttle position sensor. 
+Refer to TroubleshootingSpeed Control (Analog) - Test or TroubleshootingSpeed Control (PWM) - Test. 
+Result: The throttle position sensor response is OK. 
+Note: This Test Step is only applicable if the desired engine speed signal is sent through the CAN data link. 
+Use the electronic service tool to check for diagnostic codes that are related to the CAN data link. 
+Result: The CAN data link is suspect. 
+Repair: Test the CAN data link. 
+Repair the CAN data link. 
+Test the CAN data link. 
+Repair the data link. 
+Repair: Test the CAN data link. 
+Refer to TroubleshootingCAN Data Link - Test. 
+Result: The CAN data link is OK. 
+Result: The solenoid valve test fails. 
+Repair: Replace the HP fuel pump SCV and solenoid assembly. 
+Replace the HP fuel pump SCV and solenoid assembly. 
+Repair: Replace the fuel pump solenoid. 
+Repair: Replace the HP fuel pump SCV and solenoid assembly. 
+Result: The solenoid valve test passes successfully. 
+Note: If the compression test that was performed in Test Step 7 was satisfactory, the Cylinder Cutout Test will identify any faulty injectors. 
+The Electronic Control Module (ECM) detects a signal voltage from the intake manifold air temperature sensor that is greater than 4.8 volts. 
+The Electronic Control Module (ECM) detects a signal voltage from the intake manifold air temperature sensor that is less than 0.2 volts. 
+The signal voltage from the intake manifold air temperature sensor is greater than 4.95 V for more than 8 seconds. 
+The engine Electronic Control Module (ECM) detects signal voltage that is greater than 4.95 VDC for 8 seconds. 
+The Electronic Control Module (ECM) detects signal voltage that is greater than 4.95 VDC for 8 seconds. 
+The Electronic Control Module (ECM) detects that the signal voltage for the intake manifold temperature sensor is greater than 4.975 V for 8 seconds. 
+The signal voltage for the intake manifold temperature sensor is less than 0.2 VDC for at least 0.5 seconds. 
+The signal voltage for the intake manifold temperature sensor is less than 0.26 VDC for at least 0.5 seconds. 
+The ECM detects that the signal voltage for the intake manifold temperature sensor is less than 0.12 V for 8 seconds. 
+The ECM detects that the signal voltage for the coolant temperature sensor is greater than 4.93 VDC for at least 0.5 seconds. 
+The ECM detects that the signal voltage for the air inlet temperature sensor is greater than 4.93 VDC for at least 0.5 seconds. 
+The ECM detects that the signal voltage for the air inlet temperature sensor is greater than 4.9 VDC for at least 0.5 seconds. 
+The ECM detects that the signal voltage for the coolant temperature sensor is greater than 4.95 V for 8 seconds. 
+The ECM detects that the signal voltage for the coolant temperature sensor is less than 0.2 VDC for at least 0.5 seconds. 
+The ECM detects that the signal voltage for the air inlet temperature sensor is less than 0.2 VDC for at least 0.5 seconds. 
+The ECM detects a signal voltage from the Engine Coolant Temperature Sensor that is less than 0.2 volts. 
+The ECM detects that the signal voltage for the coolant temperature sensor is less than 0.2 V for 8 seconds. 
+The ECM detects that the signal voltage for the air inlet temperature sensor is greater than 4.95 V for 8 seconds. 
+The ECM detects that the signal voltage for the air inlet temperature sensor is less than 0.2 V for 8 seconds. 
+The ECM detects that the signal voltage for the fuel temperature sensor is greater than 4.975 V for 8 seconds 
+The ECM detects that the signal voltage for the fuel temperature sensor is less than 0.2 V for 8 seconds. 
+The ECM detects voltage that is below the acceptable range. 
+The ECM detects that the signal voltage for the NRS temperature sensor is greater than 4.975 V for 8 seconds. 
+The ECM detects that the signal voltage for the NRS temperature sensor is less than 0.125 V for 8 seconds. 
+The ECM detects voltage that is above the acceptable range. 
+The ECM detects that the signal voltage for the NRS cooler inlet temperature sensor is greater than 4.975 V for 8 seconds. 
+The ECM detects that the signal voltage for the NRS cooler inlet temperature sensor is less than 0.2 V for 8 seconds. 
+The ECM has been powered for at least 2 seconds. 
+There are no active 168-X diagnostic codes. 
+If equipped, the warning light will come on. 
+The temperature sensors have two terminals. 
+The signal line is connected to each sensor connector terminal 1. 
+Terminal 2 is the return line. 
+The signal voltage from terminal 1 of each sensor is supplied to the appropriate terminal in the ECM or the DCU. 
+The signal voltage from terminal 1 of each sensor is supplied to the appropriate terminal in the P2/J2 connector. 
+The signal voltage from terminal C of each sensor is sent to the appropriate terminal on the ECM. 
+The signal voltage from terminal 1 of each sensor is supplied to the appropriate terminal at ECM Connector P1/J1. 
+The signal voltage from terminal 1 of each sensor is supplied to the appropriate terminal in the ECM. 
+When the ECM/DCU detects a voltage above a threshold on a signal circuit, an open circuit diagnostic code (XXX-3) is communicated to the engine ECM. 
+When the ECM detects a voltage above a threshold on the signal circuit, an open circuit diagnostic code (XXX-3) is generated for the sensor. 
+When the ECM detects a voltage above a threshold on a signal circuit, an open circuit diagnostic code (XXX-3) is communicated to the engine ECM. 
+If the sensor is disconnected, pull-up voltage at the connector indicates that the wires are not open or shorted to ground. 
+Refer to the Electrical Schematic for the application for the wiring information for the auxiliary pressure sensor and the transmission oil temperature sensor (if equipped). 
+Access the Active Diagnostic Code screen on the electronic service tool. 
+Wait at least 30 seconds in order for the diagnostic codes to become active. 
+Look for one of the diagnostic codes that are listed in Table . 
+Results: A -4 diagnostic code is active. 
+Result: A -3 or -4 diagnostic code is active. 
+Results: A diagnostic code is active. 
+Result: A —4 diagnostic code is active. 
+Result: For a diagnostic code that is logged but not currently active, Proceed to Test Step 4. 
+Result: For a diagnostic code that is logged but not currently active, Proceed to Test Step 10. 
+Disconnect the suspect sensor. 
+Result: The -3 diagnostic code remains active for the suspect sensor. 
+Repair: Proceed to Test Step 9. 
+Repair: Proceed to Test Step 7. 
+Repair: Proceed to Test Step 5. 
+Note: This Test Step is not applicable to the air inlet temperature sensor or the ATAAC outlet temperature sensor. 
+If the suspect sensor is the air inlet temperature sensor or the ATAAC outlet temperature sensor, proceed to Test Step 4. 
+Refer to Illustration for the correct connector. 
+Note: If the suspect sensor is the air inlet temperature sensor, disconnect the P1 connector and the sensor connector. 
+Note: For the air inlet temperature sensor, measure the resistance between terminal 1 on the sensor connector and . 
+For a 110-3 code, start the engine and let the engine idle for 7 minutes. 
+Note: For a 110-3 code, start the engine and let the engine idle for 7 minutes. 
+Note: For a code, start the engine and let the engine idle for 7 minutes. 
+· For a 110-3 code, start the engine and let the engine idle for 7 minutes. 
+The engine must be running for at least 7 minutes in order for the diagnostic to run. 
+Result: The -4 diagnostic code remains active for the suspect sensor. 
+Result: The -4 or -20 diagnostic code remains active for the suspect sensor. 
+The -4 diagnostic code remains active for the suspect sensor. 
+The -3 diagnostic code remains active for the suspect sensor. 
+Result: The -4 or diagnostic code remains active for the suspect sensor. 
+If the suspect sensor is the air inlet temperature sensor or the ATAAC outlet temperature sensor, proceed to Test Step 7. 
+If the suspect sensor is the air inlet temperature sensor or the ATAAC outlet temperature sensor, proceed to Test Step 9. 
+Note: For the air inlet temperature sensor, measure the resistance between P1:24 and all other terminals on the P1 connector. 
+Slowly wiggle the wiring and the connectors between the P1 connector and the sensor. 
+Repair: There is a problem with the wiring. 
+Repair: The problem may be intermittent. 
+The 5 VDC supply for the sensors is greater than 5.16 VDC for more than one second. 
+There are no active battery supply faults. 
+The warning lamp will come on. 
+The ECM sets all the sensors on the 5 VDC circuit to the default values. 
+The engine will be derated. 
+The 5 VDC supply for the sensors is less than 4.84 VDC for more than one second. 
+A 3509-XX diagnostic code indicates a fault in the 5 VDC circuit on the J2/P2 connector. 
+A 3510-XX diagnostic code indicates a fault in the 5 VDC circuit on the J1/P1 connector. 
+A 3509-XX diagnostic code indicates a fault in the 5 VDC circuit on J1:34, J2:36, or J2:67. 
+A 3510-XX diagnostic code indicates a fault in the 5 VDC circuit on J1:35, J2:41, J2:68, J2:69. 
+Install the differential pressure sensor for the Diesel Particulate Filter (DPF). 
+7 Throttle position sensor. 
+Refer to the Electrical Schematic for the application for information regarding components that are connected to the 5 V and 8 V supplies on the J1/P1 connector. 
+Note: Refer to the Electrical Schematic for the application for information regarding components that are connected to the 5 V and 8 V supplies on the J1/P1 connector. 
+For information regarding sensors that are connected to the P1 connector, refer to the Electrical Schematic for the application. 
+Refer to the Electrical Schematic for the application for information regarding components that are connected to the 5 V supply on the J1/P1 connector. 
+Connect the electronic service tool to the service tool connector. 
+Result: A -3 or -4 code is present. 
+Note which sensor supply has the active diagnostic code. 
+Disconnect a sensor on the suspect sensor supply circuit. 
+Monitor the electronic service tool when the sensor is disconnected to see if the active code changes to logged. 
+Repeat steps C through E for each sensor on the suspect sensor supply. 
+For the locations of the sensors on the engine, refer to TroubleshootingComponent Location. 
+Refer to TroubleshootingComponent Location for the locations of the components listed in this procedure. 
+Refer to TroubleshootingComponent Location for graphics that show the location of the sensor's on the in-line engines and on the vee engines. 
+Refer to TroubleshootingComponent Location for graphics that show the location of the sensor on the in-line engines and on the vee engines. 
+Refer to TroubleshootingComponent Location for the locations of the sensors on the engine. 
+Result: The suspect sensor supply active code changes to logged when a sensor is unplugged. 
+Repair: Replace the failed sensor. 
+Verify that the repair resolved the problem. 
+Result: The suspect sensor supply active code remains active after all sensors on the sensor supply circuit have been checked. 
+Repair: A failed wiring harness has been detected. 
+The Electronic Control Module (ECM) monitors the intake manifold air for excessive temperature. 
+The engine has been running for 3 minutes. 
+No other 105 codes are active. 
+168 codes are not active. 
+Code 412-16 is not active. 
+The intake manifold air temperature exceeds the value that is programmed into the ECM for 8 seconds. 
+This code will be reset when the temperature is less than for 4 seconds. 
+This code will be reset when the temperature is less than for 20 seconds. 
+The engine will be shut down. 
+Check that the coolant is filled to the correct level. 
+Note: If the coolant level is too low, air will get into the cooling system. 
+Air in the cooling system will cause a reduction in coolant flow. 
+Result: Coolant level is OK. 
+Result: The engine coolant level is OK. 
+Result: The coolant level is OK. 
+Air-to-Air Aftercooler (ATAAC). 
+Check the ATAAC for debris or damage. 
+Note: Debris between the fins of the ATAAC core restricts air flow through the core. 
+Result: The ATAAC has excessive debris or is damaged. 
+Repair: Clear the debris from the ATAAC or replace the ATAAC. 
+Clear the debris from the ATAAC or replace the ATAAC. 
+Repair: Clear the debris from the ATAAC or replace the ATAAC. 
+Result: The ATAAC is OK. 
+Check the operation of the cooling fan. 
+Note: A fan that is not turning at the correct speed can result in insufficient airflow through the aftercooler core. 
+Result: The cooling fan is not operating correctly. 
+Investigate the cause of the incorrect fan operation. 
+Repair: Investigate the cause of the incorrect voltage. 
+Repair: Investigate the cause of the condition. 
+Result: The cooling fan is operating correctly. 
+Result: The air intake or exhaust system is blocked, restricted, damaged, or loose. 
+Check that there are no active diagnostic codes for the intake throttle valve. 
+Check for diagnostic codes that relate to the actuator of the throttle. 
+Check for active diagnostic codes that are related to the engine retarder. 
+Check for active diagnostic codes that relate to the engine intake throttle valve. 
+Check for a high ambient temperature. 
+Note: When outside temperatures are too high, there is insufficient temperature difference between the outside air and the intake air. 
+Result: The ambient air temperature is high. 
+Repair: Operate the engine at reduced speed or reduced power. 
+Result: The ambient air temperature is OK. 
+Results: The ambient air temperature is OK. 
+Result: The ambient air temperature is NOT OK. 
+Result: The ambient air temperature is normal. 
+Results: The ambient air temperature is too high. 
+Check for operation at high altitude. 
+Note: The cooling capacity of the ATAAC is reduced as the engine is operated at higher altitudes. 
+Result: The engine is being operated at high altitude. 
+Result: The engine is not being operated at high altitude. 
+Check that the engine is not operating in the lug condition. 
+Note: When the load that is applied to the engine is too large, the engine will run in the lug condition. 
+When the engine is running in the lug condition, engine rpm does not increase with an increase of fuel. 
+This lower engine rpm causes a reduction in coolant flow through the system. 
+Result: The engine is operating in the lug condition. 
+Repair: Reduce the load on the engine or, if possible, increase the power rating of the engine. 
+Reduce the load on the engine or, if possible, increase the power rating of the engine. 
+Repair: Reduce the load on the engine or, if possible, increase the power rating of the engine. 
+Result: The engine is not operating in the lug condition. 
+The exhaust gas temperature in the NRS is above the acceptable limit. 
+The engine has been running for at least 180 seconds. 
+There are no electrical faults on the circuit. 
+Download the Product Status Report before troubleshooting or clearing any diagnostic codes. 
+Download the Product Status Report with Histograms before troubleshooting or clearing any diagnostic codes. 
+Result: A 412-X code and a 110-X code are present. 
+Repair: Rectify the 110-X code. 
+Repair: Rectify the EGR valve code. 
+Repair: Rectify the NRS valve code. 
+Repair: Rectify the 110-X code. 
+Refer to TroubleshootingCoolant Temperature Is High. 
+Result: A 412-X code is present. 
+Result: A 4243 code is present. 
+Result: A -7 code is present. 
+Result: A or code is present. 
+Result: A 412-X code is present. 
+Check Coolant Level 
+Repair: Repair the coolant leak and replenish the coolant system. 
+Inspect the oil cooler for leaks. 
+Check the NRS Cooler for Leaks. 
+Inspect the hydraulic oil cooler for leaks. 
+Inspect the NRS Cooler for Leaks 
+Result: The cooler has internal leakage. 
+Result: The cooler did not have internal leakage. 
+Result: The NRS cooler has a leak. 
+Result: The NRS cooler has internal leakage. 
+Use the electronic service tool to clear any logged diagnostic codes and verify that the fault has been eliminated. 
+Use the electronic service tool in order to clear all logged diagnostic codes and then verify that the repair has eliminated the fault. 
+Use the electronic service tool to clear all related diagnostic codes and then run the engine and ensure that the fault has been eliminated. 
+Result: The NRS cooler has no internal leakage. 
+The fault is present. 
+The fault is NOT present. 
+The fault is still present. 
+Repair: proceed to test step 4. 
+Repair: Proceed to Test Step 4. 
+Verify that there are no active diagnostic codes for the coolant diverter valve. 
+Diagnostic Codes for the Coolant Diverter Valve 
+A low current condition in the output from the ECM to the solenoid for the coolant diverter valve for at least 0.01 seconds. 
+The Electronic Control Module (ECM) detects a low current condition in the output from the ECM to the solenoid for ether injection. 
+A low current condition in the output from the solenoid in the coolant diverter valve to the Electronic Control Module (ECM). 
+There are no active diagnostic codes. 
+The diagnostic code will be logged. 
+A high current condition in the output from the ECM to the solenoid for the coolant diverter valve for at least 0.2 seconds. 
+A high current condition in the output from the solenoid in the coolant diverter valve to the ECM. 
+The coolant diverter valve controls the flow of coolant to the heater in the Diesel Exhaust Fluid (DEF) tank. 
+The coolant diverter valve controls the flow of coolant to the heater in the Diesel Exhaust Fluid (DEF) pump and the DEF tank. 
+When required, the valve is opened to allow hot coolant to circulate through the DEF tank. 
+When required, the valve is opened to allow hot coolant to circulate through the DEF pump and the DEF tank. 
+This test opens the coolant diverter valve, allowing coolant to flow through the DEF tank and DEF pump. 
+This override will open the coolant diverter valve, allowing coolant to flow through the Pump, Electronics, and Tank Unit (PETU) . 
+This override will open the coolant diverter valve which allows coolant to flow through the PETU assembly. 
+This override will open the coolant diverter valve, allowing coolant to flow through the DEF pump and the DEF tank. 
+Refer to the Electrical Schematic for the application for details of any connectors between the coolant diverter valve connector and the ECM connectors. 
+Disconnect the connector for the coolant diverter valve. 
+Use a suitable multimeter to measure the voltage between terminal 1 on the harness connector for the coolant diverter valve and a suitable ground. 
+Result: The voltage is lower than the expected range. 
+The fault is in the wiring between the coolant diverter valve and the ECM. 
+If the fuse is OK, the fault is in the wiring between the coolant diverter valve and the SCR relay. 
+There is a fault in the wiring between the coolant diverter valve and the SCR main relay. 
+Thoroughly inspect the connectors for the coolant diverter valve and the DEF injector. 
+Thoroughly inspect the P1/J1 ECM connector and thoroughly inspect the connector for the coolant diverter valve. 
+Thoroughly inspect the connector for the coolant diverter valve. 
+Thoroughly inspect any connectors between the coolant diverter valve and the ECM. 
+Check the harness for corrosion, abrasion, and pinch points from the PTO mode switches to the ECM. 
+Check the harness for corrosion, abrasion, and pinch points from the coolant diverter valve to the ECM. 
+Use the electronic service tool to perform the DEF Coolant Diverter Valve Solenoid Override to verify that the repair eliminates the fault. 
+Result: A 267-3 diagnostic code is active. 
+Result: A 3363–5 diagnostic code is active. 
+Result: A 3363–6 diagnostic code is active. 
+Repair: Use the electronic service tool to perform a Wiggle Test. 
+If no intermittent faults are found, return the unit to service. 
+If no faults are found, return the unit to service. 
+If the Wiggle Test identifies a fault, investigate the cause. 
+Create a Short Circuit at the Harness Connector for the Gas Shutoff Valve 
+Install the jumper wire between terminal 1 and terminal 2 on the harness connector for the coolant diverter valve. 
+Install the wire between the terminal 1 and terminal 4 on the harness connector for the coolant diverter valve to create a short circuit. 
+Remove the jumper wire from the connector for the motorized valve. 
+Remove the jumper wire from the connector for the coolant diverter valve. 
+Result: A 3363-5 diagnostic code was active before installing the jumper. 
+A 3363-6 diagnostic code is active when the jumper is installed - There is a fault in the coolant diverter valve. 
+Repair: Install a replacement coolant diverter valve. 
+Repair: Install a replacement fuel control valve. 
+Repair: Install a replacement coolant diverter valve. 
+Use the electronic service tool to perform the DEF Coolant Diverter Valve Solenoid Override to check that the repair eliminates the fault. 
+Result: A 1188-5 diagnostic code is still active with the jumper installed. 
+Result: A 3363-5 diagnostic code is still active with the jumper installed. 
+Note: This step is only applicable if an interface connector is installed between the coolant diverter valve and the ECM. 
+Disconnect the interface connector between the coolant diverter valve and the ECM. 
+Use a multimeter to measure the resistance between terminal 1 on the harness connector for the coolant diverter valve and terminal 87 on the harness connector for the SCR relay. 
+Use a suitable multimeter to measure the resistance between terminal 4 on the harness connector for the coolant diverter valve and the appropriate pin/terminal on the interface connector. 
+Result: The resistance is greater than 2 Ohms - There is a fault in the wiring between the coolant diverter valve connector and the interface connector. 
+Use a suitable multimeter to measure the resistance between terminal 4 on the harness connector for the coolant diverter valve and P1:82. 
+Result: A 3363-6 diagnostic code was active before disconnecting the coolant diverter valve. 
+A 1076–5 diagnostic code is active with the fuel control valve disconnected. 
+A 3363-5 diagnostic code is active with the coolant diverter valve disconnected. 
+The fault is in the coolant diverter valve. 
+Result: A 3363-6 diagnostic code is still active with the coolant diverter valve disconnected. 
+Use a suitable multimeter to measure the resistance between the coolant diverter valve return terminal on the interface connector and all other terminals on the interface connector. 
+The fault is in the wiring between the suspect valve connector and the P2 ECM connector. 
+There is a fault in the wiring between the coolant diverter valve connector and the interface connector. 
+Perform a pull test on each of the wires in the circuit. 
+Perform the pull test on each wire in the circuit. 
+Perform a pull test on the connector wires. 
+Perform a pull test on each of the wires. 
+Perform a pull test on the wire in the . 
+Use a suitable multimeter to measure the resistance between P1:82 and all other terminals on the P1 connector. 
+A low current condition in the output from the solenoid in the DEF injector to the Electronic Control Module (ECM). 
+A high current condition in the output from the solenoid in the DEF injector to the ECM. 
+The DEF injector controls the flow of DEF into the exhaust stream in the Integrated Clean Emissions Module (IGCEM). 
+The DEF injector controls the flow of DEF into the exhaust stream. 
+Refer to the Electrical Schematic for the application for details of any connectors between the DEF injector connector and the ECM connectors. 
+Thoroughly inspect the connectors at the injectors. 
+Thoroughly inspect the circuit connectors for the injector solenoids. 
+Thoroughly inspect the connectors at the cylinder head for the injectors. 
+Thoroughly inspect the connector for the DEF injector. 
+Check the harness for corrosion, abrasion, and pinch points from the injector to the engine ECM connector. 
+Check the harness for corrosion, abrasion, and pinch points from the DEF Injector to the ECM. 
+Use the electronic service tool to override the glow plug starting aid and verify that the repair eliminates the fault. 
+Use the electronic service tool to perform the DEF Dosing Injector Override to verify that the repair eliminates the fault. 
+Use the electronic service tool to perform the DEF Dosing Injector Override. 
+Result: A 3361–5 diagnostic code is active. 
+Result: A 3361–6 diagnostic code is active. 
+Disconnect the connector for the problem injector. 
+Disconnect the connector for the injector harness. 
+Disconnect the connector for the suspect injector(s). 
+Disconnect the connector for the DEF injector. 
+Install the jumper between terminal 1 and terminal 2 on the harness connector for the DEF injector. 
+Install the jumper wire between terminal 1 and terminal 2 on the harness connector for the suspect injector. 
+Install the wire between the terminal 1 and terminal 2 on the harness connector for the DEF injector to create a short circuit. 
+Remove the jumper wire from the harness connector for the suspect injector. 
+Remove the jumper wire from the connector for the DEF injector. 
+Result: A 3361-5 diagnostic code was active before installing the jumper. 
+A 3361-6 diagnostic code is active when the jumper is installed - There is a fault in the DEF injector. 
+Use the electronic service tool to perform the DEF Dosing Injector Override to check that the repair eliminates the fault. 
+Result: A 3361-5 diagnostic code is still active with the jumper installed. 
+Note: This step is only applicable if an interface connector is installed between the DEF injector and the ECM. 
+Disconnect the interface connector between the DEF injector and the ECM. 
+Use a suitable multimeter to measure the resistance between terminal 1 on the harness connector for the DEF injector and the appropriate pin/terminal on the interface connector. 
+Use a suitable multimeter to measure the resistance between terminal 2 on the harness connector for the DEF injector and the appropriate pin/terminal on the interface connector. 
+Result: At least one of the measured resistances is greater than 1.5 Ohms. 
+Result: One or more of the measured resistances is greater than 2 Ohms. 
+Result: At least one of the resistance measurements is greater than 5 Ohms. 
+Result: At least one of the resistance measurements is greater than 2.0 Ohms. 
+Result: At least one of the measured resistances is greater than 2 Ohms. 
+There is a fault in the wiring between the DEF injector connector and the interface connector. 
+Disconnect the P2 connector. 
+Use a multimeter to measure the voltage between terminal 1 on the harness connector for the DEF injector and a suitable engine ground. 
+Use a suitable multimeter to measure the resistance between terminal 1 on the harness connector for the DEF injector and P2:13. 
+Use a suitable multimeter to measure the resistance between terminal 2 on the harness connector for the DEF injector and P2:26. 
+Result: A 3361-6 diagnostic code was active before disconnecting the DEF injector. 
+Result: A 5394-5 diagnostic code is not active with the DEF injector disconnected. 
+Result: An XXX-5 diagnostic code is active with the injectors disconnected. 
+A 3361-5 diagnostic code is active with the DEF injector disconnected. 
+Result: An XXX-6 diagnostic code is still active with the injectors disconnected. 
+Result: A 3361-6 diagnostic code is still active with the DEF injector disconnected. 
+Use a suitable multimeter to measure the resistance between the DEF injector return terminal on the interface connector and all other terminals on the interface connector. 
+Use a suitable multimeter to measure the resistance between the DEF injector supply terminal on the interface connector and all other terminals on the interface connector. 
+Use a suitable multimeter to measure the resistance between P2:90 and all other terminals on the P2 connector. 
+Use a suitable multimeter to measure the resistance between P1:43 and all other terminals on the P1 connector. 
+Use a suitable multimeter to measure the resistance between P2:13 and all other terminals on the P2 connector. 
+Use a suitable multimeter to measure the resistance between P2:26 and all other terminals on the P2 connector. 
+Actual mass flow through the NOx Reduction System (NRS) does not match the desired mass flow. 
+Actual mass flow through the Exhaust Gas Recirculation (EGR) does not match the desired mass flow. 
+The Electronic Control Module (ECM) has been powered for at least 5 seconds. 
+The Electronic Control Module (ECM) has been powered for at least five seconds. 
+The Electronic Control Module (ECM) has been powered for at least two seconds. 
+The Electronic Control Module (ECM) has been powered for at least three seconds. 
+The Electronic Control Module (ECM) has been powered up for at least five seconds. 
+The Electronic Control Module (ECM) has been powered for at least 2 seconds. 
+There are no diagnostic trouble codes for the 5 VDC supply. 
+There are no active codes for the 5 VDC supply. 
+Repair: Troubleshoot associated codes before continuing with this procedure. 
+Refer to TroubleshootingDiagnostic Trouble Codes or TroubleshootingEvent Codes for further information. 
+Result: A diagnostic code for the EGR valve is active or logged. 
+Result: A diagnostic code for the NRS valve is active or logged. 
+Rectify the EGR valve code. 
+Repair: Rectify the NRS valve code. 
+Refer to TroubleshootingMotorized Valve - Test. 
+Result: A diagnostic code is not active. 
+Result: A 2659-7 diagnostic code with no ETI is active. 
+Inspect the connectors for the components in the EGR system. 
+Inspect the connectors for the components in the NRS system. 
+Refer to Illustration and Illustration . 
+Refer to Illustration and illustration . 
+Refer to illustration and illustrations . 
+Refer to Illustration or Illustration . 
+Refer to Illustration and item N in Illustration . 
+Refer to Illustration or illustration . 
+Refer to Illustration and Illustration . 
+Perform a pull test on each of the wires in the ECM connector. 
+Perform a pull test on each of the wires in the connectors. 
+Perform a pull test on each of the wires in any suspect connector and the connections at the ECM. 
+Perform a 30 N6.7 lb pull test on each of the wires in any suspect connector and the connections at the ECM. 
+Perform a pull test on each of the wires in any suspect connector. 
+Check that the ground connection on the ECM and the negative terminal on the battery are correctly installed. 
+Check the ground connection on the ECM for abrasions and pinch points. 
+Check the harness for abrasion and pinch points from the EGR components to the ECM. 
+Check the harness for abrasion and for pinch points from the sensors to the ECM. 
+Check the harness and wiring for abrasion and for pinch points from the components back to the ECM. 
+Check the harness for abrasion and for pinch points from the battery to the ECM. 
+Check the harness for abrasion and pinch points from the NRS components to the ECM. 
+Result: An ECM connector is not correctly installed. 
+Result: A connector seal is displaced or missing or an electrical connector is not correctly installed. 
+Result: An electrical connector or a cable is not correctly installed. 
+Install the connector or cable correctly. 
+The harness is faulty. 
+Repair: Install the connector or cable correctly. 
+Repair: Install a replacement harness. 
+Result: The harness and connectors appear to be OK. 
+Result: The harness and the connectors appear to be OK. 
+Results: The harness and connectors appear to be OK. 
+Result: OK - The harness and connectors appear to be OK. 
+Results: The harness and the connectors appear to be OK. 
+Result: The harness and connectors are OK. 
+Check the air inlet system for leaks and for restrictions. 
+Check the exhaust system for leaks and for restrictions. 
+The air inlet system has a leak or is restricted. 
+Result: The inlet air system is restricted. 
+Result: The air inlet or the exhaust system is restricted. 
+Result: The air inlet or the exhaust system is not restricted. 
+Result: The inlet air is restricted. 
+Result: The air inlet system has a leak or is restricted. 
+Repair: Clear any restrictions in the air inlet system. 
+Clear any restrictions in the air inlet system. 
+Repair: Clear any restrictions in the exhaust system. 
+Repair the restrictions in the air inlet system. 
+Result: There are restrictions in the air inlet system. 
+Result: The are no restrictions in the air inlet system. 
+Repair: Clear any restrictions in the air inlet system. 
+Repair any air leaks in the air inlet system. 
+The exhaust system has a leak or is restricted. 
+Results: The exhaust system is restricted. 
+Result: The exhaust system has a leak or is restricted. 
+Clear any restrictions in the exhaust system. 
+Restrictions in the Air Inlet and Exhaust System. 
+Repair: Clear any restrictions in the exhaust system. 
+Repair any leaks in the exhaust system. 
+Repair any air leaks in the exhaust system. 
+If the fault is still present, proceed to Test Step . 
+If the fault is still present, proceed to Test Step 4. 
+If the fault is still present, proceed to Test Step 9. 
+If the fault is still present, proceed to Test Step 6. 
+Refer to Disassembly and AssemblyPressure Sensor (Exhaust Manifold) - Remove and Install. 
+Refer to Disassembly and AssemblyBoost Pressure Sensor - Remove and Install. 
+Refer to Disassembly and AssemblyFuel Pressure Sensor - Remove and Install. 
+Refer to Disassembly and AssemblyPressure Sensor (Mass Air Flow) Remove and Install. 
+Refer to Disassembly and AssemblyPressure Sensor (Cooled Exhaust Gas) - Remove and Install.. 
+Check the air filter for blockages or restrictions. 
+Check the pressure sensor for restrictions or blockages. 
+Check that the sensor port is free of blockages or restrictions. 
+Check the air intake duct for blockages or restrictions. 
+Check that the sensor pipe is free of blockages or restrictions. 
+Check the sensor port for restrictions or blockages. 
+Result: There is a leak, a restriction, or a blockage in one of the sensor pipes. 
+Result: There is a restriction or a blockage in the sensor or the sensor port. 
+Clear the blockage or restriction. 
+Repair: If possible, clear the blockage or restriction. 
+If necessary, the parts are replaced. 
+If necessary, replace parts. 
+Result: There are no leaks, restrictions, or blockages in the sensor or the pipes. 
+Result: There are no restrictions or blockages in the sensor or the sensor port. 
+If necessary, remove temperature sensor 2 and temperature sensor 3. 
+If necessary, remove temperature sensor 3 and temperature sensor 9. 
+Remove temperature sensor 4 (not shown) and temperature sensor 7 from DOC 1. 
+Remove temperature sensor 1 and temperature sensor 5. 
+Refer to Disassembly and AssemblyTemperature Sensor (Screed) - Remove and Install. 
+Refer to Disassembly and AssemblyTemperature Sensor (DPF Inlet) - Remove and Install. 
+Refer to Disassembly and AssemblyCoolant Temperature Sensor - Remove and Install 
+Refer to Disassembly and AssemblyTemperature Sensor (Cooled Exhaust Gas) - Remove and Install. 
+Check the sensor probe for excessive deposits. 
+Check the sensor probes for excessive deposits. 
+The probe on the temperature sensor has excessive deposits. 
+The probe on the temperature sensor does not have excessive deposits. 
+Repair: Carefully remove the deposits from the sensor probe. 
+Carefully remove the deposits from the sensor probe. 
+Repair: Carefully remove the deposits from the sensor probe. 
+Make sure that the sensor probe is not damaged. 
+Check for leaks in the system. 
+Check for leaks from the coolant system. 
+Result : The coolant level is low or a coolant leak is identified. 
+Rectify any coolant leaks and fill the coolant system to the correct level. 
+Result: The coolant level is OK and there are no leaks. 
+Result : The coolant level is normal and there are no coolant leaks. 
+Refer to Systems Operation/Testing and AdjustingExhaust Cooler (NRS) - Test. 
+Refer to Testing and AdjustingExhaust Cooler (NRS) - Test. 
+Refer to Systems Operation, Testing and AdjustingNRS Cooler - Test. 
+Refer to System Operation, Testing and AdjustingExhaust Cooler (NRS) - Test. 
+Result : The NRS Cooler has internal leakage or fouling. 
+Repair: Replace the cooler. 
+Replace the NRS cooler. 
+Repair: Replace the EGR cooler. 
+Repair: Replace the NRS mixer. 
+Repair: Replace the NRS Cooler. 
+The aftertreatment SCR catalyst intake gas temperature sensor has detected that the SCR intake temperature is below the normal operating range. 
+The aftertreatment SCR catalyst outlet gas temperature sensor has detected that the SCR intake temperature is above the normal operating range. 
+The aftertreatment Selective Catalytic Reduction (SCR) catalyst intake gas temperature sensor has detected that the SCR intake temperature is above the normal operating range. 
+The aftertreatment Selective Catalyst Reduction (SCR) catalyst intake gas temperature sensor has detected that the SCR intake temperature is above the normal operating range. 
+The aftertreatment SCR catalyst intake gas temperature sensor has detected that the SCR intake temperature is above the normal operating range. 
+The Electronic Control Module (ECM) detects that the SCR catalyst intake temperature is below the acceptable range. 
+ECM detects that the SCR catalyst intake temperature is below the acceptable range. 
+The aftertreatment SCR catalyst intake gas temperature sensor has detected that the SCR intake temperature is far below the normal operating range. 
+Result: A 4376-5 diagnostic code is active or recently logged. 
+Result: A 4360 code is active or recently logged. 
+Result: An associated code other than 4360 is active or recently logged. 
+Check the operation of the SCR catalyst inlet temperature sensor. 
+Check the Operation of the SCR Catalyst Inlet Temperature Sensor 
+NOTE: Only perform this test on a cold engine. 
+NOTE: Perform this test on a cold engine. 
+Note : Only perform this step on a cold engine. 
+Monitor the value of the charge air cooler outlet temperature sensor on the electronic service tool. 
+Monitor the value of the intake manifold air temperature sensor on the electronic service tool. 
+Monitor the value of the SCR catalyst inlet temperature sensor on Cat ET. 
+Monitor the status of the coolant temperature sensor on the electronic service tool. 
+Monitor the value of the SCR catalyst inlet temperature sensor on the electronic service tool. 
+Result : The value of the SCR catalyst inlet temperature sensor is within ± of ambient temperature. 
+torque the sensor to the proper specification. 
+For a 4360-16 or E946 (2) code proceed to Test Step 4. 
+For a 4360-16 or E946 (2) codes proceed to Test Step 4. 
+For a 4360-16 code proceed to Test Step 3. 
+For a 4360-17, E947 (1), 4360-18 or E947 (2) code proceed to Test Step 3. 
+For a 4360-17 or 4360-18 code proceed to Test Step 4. 
+Result : The value of the SCR catalyst inlet temperature sensor is not within ± of ambient temperature. 
+Repair: Replace the suspect SCR catalyst temperature sensor. 
+Repair: Replace the affected SCR catalyst temperature sensor. 
+Repair: Replace the SCR catalyst inlet pressure sensor. 
+Repair: Replace the SCR temperature sensor. 
+Repair: Replace the DPF Inlet Temperature sensor. 
+Repair : Replace the SCR catalyst inlet temperature sensor. 
+Check for evidence of an exothermic event in the DOC and DPF (if applicable). 
+Check for evidence of an exothermic event in the DOC and DPF. 
+Check for evidence of excessive fuel reaching the DOC or DPF (if applicable) 
+Check for evidence of excessive fuel reaching the DOC or DPF 
+Result: There has been an exothermic event in the DOC or DPF.. 
+Result: There has been an exothermic event in the DOC or DPF. 
+Repair: Replace the Clean Emissions Module (CEM). 
+Repair: Investigate the cause of the excess fuel. 
+Repair: Investigate the cause of the filter blockage. 
+Repair: Investigate the cause. 
+Repair: Investigate the cause of the high voltage. 
+Repair: Investigate the cause of the excess fuel. 
+Check the exhaust system for gas leaks between the Exhaust Back Pressure Regulator (EBPR) and the exhaust tail pipe. 
+Check the exhaust system for gas leaks between the turbocharger and the exhaust tail pipe. 
+Make sure the cooling air flow over the CEM is not excessive for the ambient conditions. 
+Make sure that the cooling air flow over the CEM is not excessive for the ambient conditions. 
+Result: Exhaust gas leaks are found in the exhaust system or the CEM. 
+Result: The exhaust system or the CEM has a gas leak. 
+Repair: Reduce the cooling air flow. 
+Repair: Reduce the cooling air flow. 
+If necessary, contact the Dealer Solutions Network (DSN). 
+If necessary, consult the Dealer Solutions Network (DSN) for further advice. 
+An error identifier is generated by the electronic service tool. 
+Repair: Troubleshoot the error identifier. 
+Refer to TroubleshootingService tool Error Identifiers. 
+Table lists the diagnostic codes for the Diesel Exhaust Fluid (DEF) pump. 
+The A6:E2 Electronic Control Module (ECM) detects an abnormal temperature signal from the pump. 
+The Electronic Control Module (ECM) detects an abnormal signal frequency. 
+The Electronic Control Module (ECM) detects an abnormal throttle signal for 5 seconds. 
+The Electronic Control Module (ECM) detects an abnormal throttle signal for five seconds. 
+The Electronic Control Module (ECM) detects a signal voltage from the auxiliary temperature sensor that is below normal. 
+The Electronic Control Module (ECM) detects an abnormal temperature signal from the pump. 
+The DCU detects an abnormal motor speed signal from the pump. 
+The ECM detects an abnormal motor speed signal from the pump. 
+During the following procedure, refer to the electrical schematic for the application. 
+The keyswitch must be off for two minutes to allow the DEF pump to purge, to reset the code, and to reset the DCU. 
+The keyswitch must be OFF for 2 minutes to allow the DEF pump to purge, reset the code, and reset the ECM. 
+Disconnect the switch's electrical connector. 
+Disconnect the two electrical connectors 2. 
+Disconnect electrical connector 1. 
+Disconnect electrical connector 4. 
+Disconnect the DEF pump electrical connector. 
+Repair: Replace the failed DEF pump. 
+The keyswitch must be off for 2 minutes to allow the DEF pump to purge, the code to reset, and the DCU to reset. 
+The keyswitch must be OFF for 2 minutes to allow the DEF pump to purge, reset the code, and reset the DCU. 
+Establish communication between the electronic service tool and the ECM. 
+Establish communication between the electronic service tool and the affected ECM. 
+Try to establish communication between the electronic service tool and the ECM. 
+Establish communication between the electronic service tool and the Dosing Control Unit (DCU). 
+Establish communication between the electronic service tool and the DCU. 
+Perform the DEF Dosing System Verification Test to pressurize and prime the system. 
+Visually inspect all DEF lines from the tank to the DEF injector for leakage. 
+Make the necessary repairs and repeat the DEF Dosing System Verification Test. 
+Repeat the Fuel System Verification Test after making the necessary repairs. 
+Establish communication between the electronic service tool and the engine ECM. 
+Result: The Aftertreatment NOx Sensor Functional Test was successful. 
+Result: The Aftertreatment System Functional Test was successful and the code cleared. 
+Result: The Aftertreatment System Functional Test was not successful and additional codes were logged. 
+Troubleshoot the additional codes, Refer to Troubleshooting for the correct procedure. 
+Use this procedure if any of the diagnostic codes in Table is active or easily repeated. 
+Use this procedure if one of the diagnostic codes in Table are active or easily repeated. 
+Use this procedure if any of the diagnostic codes in Tableis active or easily repeated. 
+Use this procedure if any one of the diagnostic codes in Table is active or easily repeated. 
+Or, use this procedure if any of the diagnostic codes in Table is active or easily repeated. 
+Use this procedure if any of the diagnostic codes in Table are active or easily repeated. 
+The ECM detects voltage that is above the acceptable value. 
+The ECM detects voltage that is below the acceptable value. 
+The ECM detects voltage that is not in the acceptable range. 
+The ECM detects voltage that is outside the acceptable value. 
+Disconnect the ECM connector for the suspect sensor. 
+Disconnect the harness connector for the suspect sensor. 
+Disconnect the connector for the suspect NOx sensor. 
+Use the electronic service tool to switch on the override for the suspect NOx sensor. 
+Measure the voltage between terminal 2 and terminal 3 on the harness connector for the WIF sensor. 
+Measure the voltage between terminal 1 and terminal 2 on the harness connector for the EFLP. 
+Measure the voltage between terminal 1 and terminal 2 on the harness connector for the exhaust gas pressure sensor. 
+Measure the voltage between the 5 VDC terminal and the ground terminal on the harness connector for the sensor. 
+Measure the voltage between the 5 V terminal and the ground terminal on the harness connector for the sensor. 
+Measure the voltage between terminal 1 and terminal 4 on the harness connector for the sensor. 
+Use a multimeter to measure the resistance between the disconnected wire and terminal 87 on the harness connector for the ECM main relay. 
+If the IVS 2 is suspect, use a suitable multimeter to measure the resistance between the IVS terminal on the harness connector to P1:42. 
+B.Use a suitable multimeter to measure the resistance between terminal 1 on the harness connector for the suspect sensor and the SCR main relay. 
+Use a multimeter to measure the resistance between terminal 5 on the harness connector and a suitable engine ground. 
+Use a suitable multimeter to measure the resistance between terminal 4 on the harness connector for the suspect sensor and a suitable ground. 
+There is an open circuit in the CMP sensor wiring. 
+There is an open circuit in the CKP sensor wiring. 
+There is an open circuit in the wiring harness for the suspect cylinder. 
+There is an open in the sensor circuit wiring. 
+There is an open circuit in the wiring to the suspect NOx sensor. 
+Measure the resistance between terminals A and B at the harness connector for the suspect pressure sensor. 
+Measure the resistance between the terminal for the suspect sensor signal wire at the ECM connector and the engine ground. 
+Measure the resistance between terminal 1 on the harness connector for the suspect sensor and a suitable ground. 
+Result: The measured resistance is greater than 1k Ohm. 
+Result: Each resistance measurement is greater than 1 k Ohm. 
+Result: The measured resistance is greater than 1 k Ohm. 
+Result: The measured resistance is greater than 1M Ohm. 
+Result: The resistance measurement is greater than 1k Ohm. 
+Result: The measured resistance is less than 1 k Ohm. 
+Result: The resistance measurement is less than two Ohms. 
+Result: The resistance measurement is less than 2.0 Ohms. 
+Result: A resistance measurement is less than 1k Ohms. 
+Result: The resistance measurement is less than 1 k Ohm. 
+There is a short to the power supply for the sensor. 
+There is a short in the power supply wiring to the suspect NOx sensor. 
+Under normal operation conditions, wait 30 seconds after the engine has stopped before moving the battery disconnect switch to the OFF position. 
+Wait 2 minutes after the engine has stopped before turning the battery disconnect switch to the OFF position. 
+The DEF system requires 2 minutes in order to purge diesel exhaust fluid (DEF) from system components automatically. 
+The DEF system requires 2 minutes to purge diesel exhaust fluid (DEF) from system components automatically. 
+Review the Aftertreatment Abnormal Shutdown History 
+Select the Information tab, then select the History tab in the Cat ET menu. 
+Select the Information tab, then select the History tab in the Cat? ET menu. 
+Proceed to Aftertreatment Abnormal Shutdown History. 
+Result: The system was allowed 2 minutes to purge before the battery disconnect was turned to OFF. 
+Result: The system was not allowed 2 minutes to purge before the battery disconnect was turned to the OFF position. 
+Repair: Inform the operator to wait 2 minutes after key-off before turning the battery disconnect to the OFF position. 
+Inform the operator to wait 2 minutes after key-off before turning the battery disconnect to the OFF position. 
+Result: The system was allowed 2 minutes to purge before the battery disconnect was turned to the OFF position. 
+Or, use this procedure if the following event code is active. 
+Also use this procedure if the following event code is active. 
+Also, use this procedure if the following event code is active. 
+Use this procedure if one of the following event codes is active. 
+Also, or use this procedure if the following event code is active. 
+Use this procedure if the following event code is active. 
+The lamp will illuminate. 
+After shutdown the red stop lamp will illuminate. 
+The shutdown lamp will illuminate. 
+The warning lamp will flash. 
+The warning lamp will flash fast. 
+The warning lamp will flash slowly. 
+Inspect the exhaust system between the exhaust manifold and the SCR for signs of an exhaust leak. 
+Inspect the exhaust system for leaks between the exhaust manifold and the aftertreatment assembly inlet. 
+Inspect the exhaust system for leaks between the exhaust manifold and the Clean Emissions Module (CEM). 
+Result: There are exhaust leaks. 
+Result: The exhaust system has leaks. 
+Repair the exhaust. 
+Repair: Repair the exhaust system insulation. 
+Repair: Repair the exhaust. 
+Replace the damaged DPF or missing DPF brick. 
+The lamps are not receiving battery voltage. 
+The lamps are not operating correctly. 
+The electronic service tool can be used as a diagnostic aid in order to switch the individual lamps ON and OFF. 
+The electronic service tool can be used as a diagnostic aid in order to switch the individual indicators ON and OFF. 
+The electronic service tool can be used as a diagnostic aid to switch the individual lamps ON and OFF. 
+The diagnostic aid that switches the lamps is contained in the Override section in the diagnostics menu of the electronic service tool. 
+Thoroughly inspect the P1 connector and the lamp connections. 
+Thoroughly inspect the P1 connector, and the lamp connections. 
+Thoroughly inspect the P2 connector and the suspect sensor connections. 
+Thoroughly inspect the terminal connections on the P1/J1 connector. 
+Thoroughly inspect the P1/P2 connector and the lamp connections. 
+Perform a pull test on each of the wires in the P1 connector that are associated with the indicator lamps. 
+Perform a 45 N10 lb pull test on each of the wires in the P1 connector that are associated with the indicator lamps. 
+Perform a pull test on each of the wires in the ECM connector that are associated with the EFLP. 
+Perform a pull test on each of the wires in the ECM connector that are associated with the circuit. 
+Perform a 45 N10 lb pull test on each of the wires that are associated with the indicator lamps. 
+Perform a pull test on each of the wires in the P1/P2 connector that are associated with the indicator lamps. 
+Check the harness for abrasions and for pinch points from the battery to the ECM. 
+Disconnect the lamp from the harness. 
+Inspect the lamp in order to determine if the lamp has failed. 
+Inspect the lamp to determine if the lamp has failed. 
+Measure the resistance across the two terminals of the lamp. 
+Result: The lamp has greater than 2000 Ohms resistance. 
+Repair: Replace the suspect lamp. 
+Replace the suspect lamp. 
+Repair: Replace the lamp. 
+Repair: Replace the suspect sensor. 
+Repair: Replace the suspect injector. 
+Repair - Replace the lamp. 
+Repair: Replace the suspect lamp. 
+Result: The lamp has less than 2000 Ohms resistance. 
+Use the electronic service tool to select the override function in order to switch individual lamps ON and OFF. 
+Use the CatET to select the override function in order to switch individual lamps ON and OFF. 
+Use the Cat ET to select the override function in order to switch individual lamps ON and OFF . 
+Use Cat ET to select the override function in order to switch individual lamps ON and OFF. 
+Use Cat ET to select the override function in order to switch individual lamps ON and OFF . 
+Use the electronic service tool to select the override function to switch individual lamps ON and OFF. 
+Note: The Override function is contained in the Diagnostics menu of the electronic service tool. 
+Measure the voltage at the lamp socket. 
+At least 10 VDC for a 12 V system. 
+At least 22 VDC for a 24 V system. 
+Result: The voltage is not within the expected range - the fault is in the battery supply wiring to the lamp. 
+Remove the bulb from the suspect lamp. 
+Use a multimeter to measure the resistance between the ground connection on the lamp holder and the applicable terminal on the P1 connector. 
+Result: The measured resistance is greater than 2 Ohms - the fault is in the wiring between the lamp holder and the ECM. 
+Disconnect the suspect lamp. 
+Use a multimeter to check the resistance between P1:26 and a suitable ground. 
+Use a multimeter to check the resistance between P1:32 and a suitable ground 
+Use a suitable multimeter to measure the resistance between pin 2 and a suitable ground. 
+Use a suitable multimeter to measure the resistance between the IAH element and engine ground. 
+Use a suitable multimeter to measure the resistance between the IDM housing and ground. 
+Use a multimeter to check the resistance between the lamp socket and a suitable ground. 
+Result: The measured resistance is less than 1k Ohm. 
+There is a short in the wiring between the lamp holder and the ECM. 
+Result: The measured resistance is greater than 10 k Ohms. 
+Result: The measured resistance is greater than 100 Ohms. 
+Result: The measured resistance is greater than 5 Ohms. 
+Result: The measured resistance is greater than 1k Ohm. 
+Use this procedure to troubleshoot the electrical system if a problem is suspected with the cooling fan speed sensor. 
+The engine cooling fan speed sensor provides a signal to the Electronic Control Module (ECM). 
+The ECM controls fan speed by varying the current to the fan control solenoid. 
+The engine cooling fan speed sensor receives a supply voltage of 5.0 ± 0.5 VDC from the ECM. 
+The engine cooling fan speed sensor receives a supply voltage of 8.0 ± 0.5 VDC from the ECM. 
+The engine cooling fan speed sensor receives a supply voltage of 5.0 ± 0.2 VDC from the ECM. 
+The engine cooling fan speed sensor receives a supply voltage of 10.0 ± 0.5 VDC from the ECM. 
+The engine cooling fan speed sensor receives a supply voltage from the ECM. 
+The sensor outputs a frequency that is directly proportional to fan speed. 
+Access the Fan Override Test under the Diagnostics menu. 
+Start the Fan Override Test on the electronic service tool. 
+Set the fan speed to 500 rpm. 
+Use Tooling A to determine the actual speed of the fan. 
+Compare the engine fan speed that is reported by the electronic service tool to the actual engine fan speed that is reported by the photo-tachometer. 
+Compare the engine fan speed that is reported by Cat ET to the actual engine fan speed that is reported by the photo-tachometer. 
+Compare the engine fan speed that is reported by the electronic service tool to the actual engine fan speed that is reported by Tooling A. 
+Deactivate the Fan Override Test. 
+Result: The engine fan speed is within ± 50 rpm. 
+The sensor is operating correctly. 
+There may be an intermittent electrical problem in a connector or in the harness. 
+If an intermittent problem is suspected, refer to TroubleshootingElectrical Connectors - Inspect. 
+Result: The engine fan speed is not within ± 50 rpm. 
+Disconnect the sensor connector from the wiring harness. 
+Measure the sensor supply voltage between terminal 2 and terminal 3. 
+Result: The supply voltage is not reaching the sensor. 
+Repair: Refer to TroubleshootingSensor Supply - Test. 
+Result: The supply voltage is reaching the sensor. 
+Remove the wire from terminal 1 on the sensor side of the connector. 
+Connect the sensor connector. 
+Access the Fan Override Test under the Diagnostics menu on the electronic service tool. 
+Set the fan speed to 800 rpm. 
+Use a multimeter to measure the frequency between the signal wire from the sensor and engine ground. 
+Restore all connectors and wiring to the original configuration. 
+Result: The frequency is approximately 80 Hz. 
+The engine cooling fan speed sensor is generating the correct signal. 
+Repair: Repair the harness or replace the harness. 
+Result: The frequency is not approximately 80 Hz. 
+Repair: Replace the speed sensor. 
+Repair- Replace the speed sensor. 
+Replace the engine fan speed sensor. 
+Repair: Replace the suspected sensor. 
+Repair: Replace the fan speed sensor. 
+Once code is cleared proceed to Test Step 4. 
+Note: Do not power cycle ECM between cranks as this will reset any clearing timers. 
+Note: If mechanical cranking interlock is active on keyswitch mechanism, a rapid keycycle from IGNITION ->OFF ->IGNITION will not result in the ECM being power cycled. 
+Ether injection will then be re-enabled after a keycycle. 
+Set Ether Solenoid Configuration = Not Installed. 
+Perform this procedure if the following diagnostic code is active. 
+Or, use this procedure if one of the diagnostic codes in Table is active. 
+Also use this procedure if one of the diagnostic codes in Table is active. 
+Use this procedure if any one of the diagnostic codes in Table is active. 
+Perform the following procedure if one of the diagnostic codes listed in Table is active. 
+Place alternator 1 in a suitable support. 
+Place turbocharger 1 in a suitable support. 
+Loosen bolts 6 by one turn. 
+Loosen bolts 20 by one turn. 
+Loosen bolts 27 by one turn. 
+Loosen bolts 19 half of one turn. 
+Loosen bolts 3 by one turn. 
+Remove bolts 3 and bolts 4 from the back of turbocharger compressor housing 5. 
+Be prepared to collect the fluid in suitable containers before opening any compartment or disassembling any component containing fluids. 
+Prepare to collect the fluid with suitable containers before opening any compartment or disassembling any component containing fluids. 
+Prepare to collect the fluid with suitable containers before opening any compartment or disassembling any component that contains fluids. 
+You must be prepared to collect the fluid with suitable containers before opening any compartment or disassembling any component that contains fluid. 
+Be prepared to collect fluid with suitable containers before opening any component or disassembling any components containing fluids. 
+Ensure that O-ring seal 8 (not shown) is not dislodged during the assembly process. 
+Install bolts 6 and tighten the bolts finger tight. 
+Install new bolts 3 finger tight. 
+Install the bolts 2 and bolts 3 finger tight. 
+Install new bolts 3, tighten the bolts finger tight. 
+Use the electronic service tool to perform the Engine Turbocharger #1 Estimated Efficiency Loss Reset. 
+Do not use a pry bar to remove V-band clamps. 
+Tighten clamp 5 to a torque of . 
+Tighten hose clamp 5 to a torque of . 
+Disconnect the OEM harness assembly from harness assembly 9 for water in fuel switch 8. 
+If necessary, a new O-ring seal 7 (not shown) to water in fuel switch 8. 
+Connect the OEM harness assembly to harness assembly 9 for water in fuel switch 8. 
+Disconnect the OEM harness assembly from the ECM. 
+If necessary, remove water in fuel switch 6 from filter canister 4. 
+If necessary, install a new O-ring seal 5 (not shown) to adapter 4. 
+If necessary, install a new O-ring seal 5 (not shown) to water in fuel switch 6. 
+Tighten water in fuel switch 1 hand tight. 
+Hand tighten the water in fuel switch. 
+Tighten the fuel injection line nuts to a torque of . 
+Tighten the nuts for the fuel injection line to a torque of 25 N·m18 lb ft. 
+Tighten fuel injection lines 1 to a torque of . 
+Tighten all the tube nuts on fuel injection lines 14 to a torque of . 
+Tighten the nuts for the fuel injection lines to a torque of . 
+If a new throttle valve is installed, use the electronic service tool to perform the Engine Throttle Valve Replacement Reset. 
+If the injector clamp nut is loosened, Perkins recommend that the nut and clamp are replaced. 
+If necessary, follow Step through Step in order to install oil suction pipe 8. 
+If necessary, follow Step through Step in order to install oil suction pipe 9. 
+If necessary, follow Step through Step to install fan adapter 3. 
+If necessary, follow Step through Step to install turbo charger oil feed pipe 31. 
+Position tube assembly 28 onto the cylinder block. 
+Install a new washer 4 to drain plug 5. 
+Install a new O-ring seal 4 to plug 5. 
+Install a new sealing washer 5 to oil drain plug 6. 
+Install a new sealing washer 6 to Multitorch spark plug 5. 
+Install a new sealing washer 4 to plug 5. 
+Ensure that the oil pump gear is aligned with the flat on the shaft. 
+Ensure that the oil pump drive is aligned with the crankshaft. 
+Install bolts 9 into water temperature regulator housing 8. 
+Install water temperature regulator housing 8 and bolts 7. 
+Install bolts 7 to water temperature regulator housing 1. 
+Use Tooling C to install crankshaft rear seal 1. 
+Use Tooling E to install crankshaft rear seal 1. 
+Install Tooling A to inner steel lip of crankshaft rear seal 1. 
+Install Tooling B in Position W. 
+Install Tooling A in Position W 
+Inspect crankshaft rear seal 6 for leaks. 
+Inspect crankshaft front seal 6 for leaks. 
+Use Tooling C to install crankshaft front seal 1. 
+Install Tooling D onto crankshaft front seal 1. 
+Install Tooling A to inner steel lip of crankshaft front seal 1. 
+Position the new crankshaft front seal 1 over the adaptor onto the front of the crankshaft. 
+Install a new O-ring seal on the engine oil pressure sensor. 
+Tighten the engine oil pressure switch to a torque of 23 N·m 16.9 lb ft . 
+Apply Tooling A to the threads of retaining nuts for DOC outlet temperature sensor 3. 
+If necessary, follow Step through Step to remove bracket 6. 
+If necessary, remove ring dowel 11 (not shown). 
+If necessary, remove dowels 5 from the cylinder block. 
+If necessary, remove dowels 4 from the cylinder block. 
+If necessary, remove ring dowel 5 (not shown) from cylinder block. 
+Do not replace the ring dowel unless the ring dowel is damaged. 
+If necessary, follow Step through Step to install bracket 9. 
+If necessary, install dowels 6 (not shown) to the cylinder block. 
+If necessary, install ring dowel 5 to cylinder block. 
+Ensure that the bracket is correctly seated onto ring dowels 7. 
+Ensure that the bracket is correctly installed onto the ring dowel (not shown). 
+Perkins does not recommend the checking of the actual clearances of the bearing shells particularly on small engines. 
+Each Perkins bearing shell is quality checked for specific wall thickness. 
+The main bearing caps must be installed in the original location and orientation. 
+The components must be reinstalled in the original location and orientation. 
+The components must be installed in the original location and orientation. 
+The bearing shells must be reinstalled in the original location and orientation. 
+Fracture split connecting rods must not be left without the connecting rod caps installed. 
+Position tube assembly 31 onto the cylinder block. 
+Note: The turbocharger that is installed on the engine is a non-serviceable item. 
+The ECM broadcasts the codes on the J1939 CAN data link. 
+The ECM broadcasts the codes on two data links. 
+The ECM broadcasts the codes on a CAN data link. 
+In the following illustrations, some components have been removed to improve visibility. 
+The Electronic Control module (ECM) detects a low current in the circuit for the injector solenoid. 
+The Electronic Control Module (ECM) detects a high current condition in the circuit for the engine retarder solenoid. 
+The Electronic Control Module (ECM) detects a low current in the circuit. 
+The Electronic Control Module (ECM) detects a low current condition on the circuit for the DEF purging pump. 
+The Electronic Control Module (ECM) detects a low current condition for the injector solenoid. 
+The warning light will come on. 
+The engine will have low power and/or rough running. 
+When an Cylinder Cutout Test is performed, a faulty electronic unit injector will indicate a low reading in comparison with the other electronic unit injectors. 
+The ECM will continue to attempt to operate the electronic unit injector after the diagnostic code has been logged. 
+An open circuit will prevent the operation of the electronic unit injector. 
+The ECM detects a high current in the circuit for the injector solenoid. 
+The ECM detects a low current in the circuit for the injector solenoid. 
+The ECM detects a high current condition for the injector solenoid. 
+A short circuit will prevent the operation of the electronic unit injector. 
+Perform this procedure under conditions that are identical to the conditions that exist when the fault occurs. 
+Typically, faults with the injector solenoid occur when the engine is warmed up and/or when the engine is under vibration (heavy loads). 
+These engines have Electronic Unit Injectors (EUI). 
+The ECM sends a pulse to each injector solenoid. 
+The pulse is sent at the correct time and at the correct duration for a given engine load and speed. 
+The solenoid is mounted on top of the fuel injector body. 
+An electrical fault can prevent the electronic unit injector from operating. 
+An open or short circuit in the ECM that is unique to one electronic unit injector will prevent that electronic unit injector from operating. 
+An open or short circuit in common wiring within the ECM can prevent the two electronic unit injectors that share that common wiring from operating. 
+If an open circuit is detected in the solenoid circuit, a diagnostic code is generated. 
+The ECM continues to try to fire the injector. 
+If a short circuit is detected, a diagnostic code is generated. 
+The ECM will periodically try to fire the injector. 
+If the short circuit remains, this sequence of events will be repeated until the fault is corrected. 
+Use the Injector Solenoid Test to diagnose an open or short circuit diagnostic code while the engine is not running. 
+The Injector Solenoid Test will send a signal to each solenoid. 
+The electronic service tool will indicate the status of the solenoid as OK, Open, or Short. 
+A strong electrical shock hazard is present if the keyswitch is not turned OFF. 
+Connect the connectors for the engine interface connector. 
+Thoroughly inspect the connectors for the injectors and the engine interface connector. 
+Check the harness and wiring for abrasion and for pinch points from the injectors to the ECM. 

@@ -1,0 +1,32 @@
+# samples path
+save_data: mydata/run/example
+
+# vocabs path
+src_vocab: mydata/run/example.vocab.src
+tgt_vocab: mydata/run/example.vocab.tgt
+
+overwrite: False
+
+data:
+        corpus_1:
+                path_src: mydata/train_eng_mech.txt
+                path_tgt: mydata/train_zhn_mech.txt
+        valid:
+                path_src: mydata/val_eng_mech.txt
+                path_tgt: mydata/val_zhn_mech.txt
+
+
+            
+# Vocabulary files that were just created
+src_vocab: mydata/run/example.vocab.src
+tgt_vocab: mydata/run/example.vocab.tgt
+
+# Train on a single GPU
+world_size: 1
+gpu_ranks: [0]
+
+# Where to save the checkpoints
+save_model: mydata/run/model
+save_checkpoint_steps: 2000
+train_steps: 15000
+valid_steps: 3000

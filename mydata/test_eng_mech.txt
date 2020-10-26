@@ -1,0 +1,6 @@
+Ensure that the work tool is compatible with the complete machine.
+A powerful percussion hammer fitted to a machine and powered by an auxiliary hydraulic circuit for demolishing concrete or rocks.
+Failure to do so will result in damage to the host machine.
+However, failures that result from the installation of other manufacturers devices, and consumables are NOT Perkins defects.
+The numbers for electronic engines are stored within the flash file.
+We recommend that model-specific cradles are used to transport engines.
